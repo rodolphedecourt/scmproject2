@@ -1,37 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="9008000">
-	<Property Name="varPersistentID:{01AEF1FE-F075-4B34-9C08-DD1DBE230616}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO6</Property>
-	<Property Name="varPersistentID:{0A796FF9-E09B-4589-ABA5-BBF9D2D6B6EE}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO15</Property>
-	<Property Name="varPersistentID:{0E3A8D9F-E6C5-412D-BA81-4A96E706293E}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO22</Property>
-	<Property Name="varPersistentID:{15FB6A48-5A30-4B9F-9A40-7A7A4FE815D4}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO8</Property>
-	<Property Name="varPersistentID:{167F6DDF-3EAB-4EC7-A903-751B2A15E5CC}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO0</Property>
-	<Property Name="varPersistentID:{1B51077B-DBF7-4B62-94DB-BEEC7C16F851}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO25</Property>
-	<Property Name="varPersistentID:{22414318-A89F-4F0E-91C7-5FA805F10DC7}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO31</Property>
-	<Property Name="varPersistentID:{3B211A96-ED8D-4274-975D-19578D44B05D}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO9</Property>
-	<Property Name="varPersistentID:{45E25916-7049-45C4-BEB5-39D8590B9CEF}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO24</Property>
-	<Property Name="varPersistentID:{4C794240-E528-47D5-87DB-BD305A2EAE7F}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO2</Property>
-	<Property Name="varPersistentID:{56BF84CE-F08B-447D-8A4D-41C06C7BEF05}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO19</Property>
-	<Property Name="varPersistentID:{56D9B812-84F7-45CE-8AE9-59FECD9A2F58}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO4</Property>
-	<Property Name="varPersistentID:{58BB8D22-31A6-43C8-B3AA-26E54B07DB53}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO28</Property>
-	<Property Name="varPersistentID:{5B79B106-8985-43F8-80A9-91F5100FAD64}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO23</Property>
-	<Property Name="varPersistentID:{5BCB1395-AE65-45C3-8EF9-5CAE0411C73C}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO21</Property>
-	<Property Name="varPersistentID:{5BE219A8-FD71-4208-94AF-38F959D8E008}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO12</Property>
-	<Property Name="varPersistentID:{60A97C0E-4E96-46D6-BFB6-BE8D4787FA7D}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO17</Property>
-	<Property Name="varPersistentID:{645FAD0D-88EE-4A15-AC04-CBAB733F282F}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO29</Property>
-	<Property Name="varPersistentID:{8CF246CD-AE1E-4EAC-BEBF-ADE8636C1CC6}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO7</Property>
-	<Property Name="varPersistentID:{95B76EBD-B4EA-4A7A-A509-7D6DD4EFD16B}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO27</Property>
-	<Property Name="varPersistentID:{9908E8F4-70D9-430C-BF6D-82E0B3C8D54A}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO30</Property>
-	<Property Name="varPersistentID:{99C47FDF-295D-4826-9901-A06E70712A31}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO14</Property>
-	<Property Name="varPersistentID:{A0357DBB-11FA-4C9A-A248-233F4DCECDF2}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO10</Property>
-	<Property Name="varPersistentID:{A3C0BDB9-508C-4ABA-AED3-B12CA5180C54}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO1</Property>
-	<Property Name="varPersistentID:{C26CFB5E-4852-4043-AAEA-FBCA62BDCF59}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO16</Property>
-	<Property Name="varPersistentID:{CA71AF08-6DC1-497F-942D-F47C365ED708}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO26</Property>
-	<Property Name="varPersistentID:{D1401379-0B1E-4539-95D4-78C17B1D7271}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO20</Property>
-	<Property Name="varPersistentID:{D5EC7A38-CB5E-4B06-B208-35C0A8F232F5}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO3</Property>
-	<Property Name="varPersistentID:{E1942B68-3F54-4718-914C-A32835178DBD}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO11</Property>
-	<Property Name="varPersistentID:{E2641DFB-62D7-405E-B502-6CDE755737FA}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO5</Property>
-	<Property Name="varPersistentID:{ECB04746-39DA-43AB-BFF6-5898343406EC}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO18</Property>
-	<Property Name="varPersistentID:{F5A68A41-A880-4AEF-A202-8B238B9E262E}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/DIO13</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -43,7 +11,37 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="IOTest.vi" Type="VI" URL="../IOTest.vi"/>
+		<Item Name="Sim.vi" Type="VI" URL="../Sim.vi"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="vi.lib" Type="Folder">
+				<Item Name="NI_XNodeSupport.lvlib" Type="Library" URL="/&lt;vilib&gt;/XNodeSupport/NI_XNodeSupport.lvlib"/>
+				<Item Name="imagedata.ctl" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/imagedata.ctl"/>
+				<Item Name="niLvFPGAUserSpecifiedEmulationVISupport.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/rvi/customViForEmulation/niLvFPGAUserSpecifiedEmulationVISupport.lvclass"/>
+				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
+				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
+				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+			</Item>
+			<Item Name="scmproject.lvproj_FPGA Target_FPGA_IO30.vi.lvbitx" Type="Document" URL="../FPGA Bitfiles/scmproject.lvproj_FPGA Target_FPGA_IO30.vi.lvbitx"/>
+			<Item Name="niFpgaExecutionStage.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/eio/common/niFpgaExecutionStage.ctl"/>
+			<Item Name="nirviEmuClasses.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/eio/common/nirviEmuClasses.ctl"/>
+			<Item Name="EIO_ResourceConfig.ctl" Type="VI" URL="/&lt;vilib&gt;/eio/EIO_ResourceConfig.ctl"/>
+			<Item Name="niLvFpgaEmuInfo.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/eio/sdk/emulation/public/niLvFpgaEmuInfo.ctl"/>
+			<Item Name="niLvFpgaFormatErrorSource.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaFormatErrorSource.vi"/>
+			<Item Name="niFpgaGenCallStack.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niFpgaGenCallStack.vi"/>
+			<Item Name="nirviFillInErrorInfo.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/nirviFillInErrorInfo.vi"/>
+			<Item Name="nirviReportUnexpectedCaseInternalErrorHelper.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/nirviReportUnexpectedCaseInternalErrorHelper.vi"/>
+			<Item Name="nirviReportUnexpectedCaseInternalError (U32).vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/nirviReportUnexpectedCaseInternalError (U32).vi"/>
+			<Item Name="nirviReportUnexpectedCaseInternalError (String).vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/nirviReportUnexpectedCaseInternalError (String).vi"/>
+			<Item Name="nirviReportUnexpectedCaseInternalError (Bool).vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/nirviReportUnexpectedCaseInternalError (Bool).vi"/>
+			<Item Name="nirviReportUnexpectedCaseInternalError.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/nirviReportUnexpectedCaseInternalError.vi"/>
+			<Item Name="niLvFpgaErrorClusterFromErrorCode.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaErrorClusterFromErrorCode.vi"/>
+			<Item Name="niLvFPGAUserSpecifiedEmulationVISupport.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/customViForEmulation/niLvFPGAUserSpecifiedEmulationVISupport.ctl"/>
+			<Item Name="NiRioSrv.dll" Type="Document" URL="NiRioSrv.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="scmproject.lvproj_FPGA Target_RobotFPGA.vi.lvbitx" Type="Document" URL="../FPGA Bitfiles/scmproject.lvproj_FPGA Target_RobotFPGA.vi.lvbitx"/>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 	<Item Name="RT CompactRIO Target" Type="RT CompactRIO">
@@ -95,509 +93,448 @@
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
 		<Property Name="TargetOSID" Type="Str">VxWorks-PPC603</Property>
-		<Item Name="ImageTest.vi" Type="VI" URL="../ImageTest.vi"/>
 		<Item Name="Chassis" Type="cRIO Chassis">
-			<Property Name="crio.ProgrammingMode" Type="Str">express</Property>
+			<Property Name="crio.ProgrammingMode" Type="Str">fpga</Property>
 			<Property Name="crio.ResourceID" Type="Str">RIO0</Property>
 			<Property Name="crio.Type" Type="Str">cRIO-9074</Property>
-			<Item Name="Mod4" Type="RIO C Series Module">
-				<Property Name="crio.Calibration" Type="Str">1</Property>
-				<Property Name="crio.Location" Type="Str">Slot 4</Property>
-				<Property Name="crio.RequiresValidation" Type="Bool">false</Property>
-				<Property Name="crio.SDcounterSlaveChannelMask" Type="Str">0</Property>
-				<Property Name="crio.SDCounterSlaveMasterSlot" Type="Str">0</Property>
-				<Property Name="crio.SDInputFilter" Type="Str">128</Property>
-				<Property Name="crio.SupportsDynamicRes" Type="Bool">true</Property>
-				<Property Name="crio.Type" Type="Str">NI 9403</Property>
-				<Property Name="cRIOModule.DigitalIOMode" Type="Str">0</Property>
-				<Property Name="cRIOModule.DisableArbitration" Type="Str">false</Property>
-				<Property Name="cRIOModule.EnableSpecialtyDigital" Type="Str">false</Property>
-				<Property Name="cRIOModule.Initial Line Direction" Type="Str">11000000000000000000000000000000</Property>
-				<Item Name="DIO0" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">0</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO0</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+			<Item Name="FPGA Target" Type="FPGA Target">
+				<Property Name="AutoRun" Type="Bool">false</Property>
+				<Property Name="configString.guid" Type="Str">{0821C250-8D76-4365-BCA4-924EF958F1C6}resource=/crio_Mod4/DIO11;0;ReadMethodType=bool;WriteMethodType=bool{0E626545-B038-438F-A0E5-859E90F9A3C4}resource=/crio_Mod4/DIO24;0;ReadMethodType=bool;WriteMethodType=bool{1794AAE0-08C2-4681-AC51-69D42856C932}resource=/crio_Mod4/DIO23;0;ReadMethodType=bool;WriteMethodType=bool{1B347F5D-B8B5-467F-84B9-F27DB9C85357}resource=/crio_Mod4/DIO17;0;ReadMethodType=bool;WriteMethodType=bool{1C85CD82-4650-4951-A609-8759CD652FDC}resource=/crio_Mod4/DIO29;0;ReadMethodType=bool;WriteMethodType=bool{2C357E29-12D6-47DD-BA26-7FFDEB76BE1E}resource=/crio_Mod4/DIO1;0;ReadMethodType=bool;WriteMethodType=bool{350B040E-80DE-4F22-996B-5DC00CF21715}resource=/crio_Mod4/DIO18;0;ReadMethodType=bool;WriteMethodType=bool{3C94EF33-4AE2-44D4-A409-7151EFC34081}resource=/Sleep;0;ReadMethodType=bool;WriteMethodType=bool{41950625-4073-40B2-BE7A-3733DC53C7AF}resource=/crio_Mod4/DIO20;0;ReadMethodType=bool;WriteMethodType=bool{4B0ECFF0-492F-4862-B39E-4BCD4E707FE7}resource=/crio_Mod4/DIO4;0;ReadMethodType=bool;WriteMethodType=bool{52D8CE75-4FA0-4252-8331-A7B87678F7F0}resource=/crio_Mod4/DIO8;0;ReadMethodType=bool;WriteMethodType=bool{56534C7C-D675-454A-9548-2A3F02A1B8BF}resource=/FPGA LED;0;ReadMethodType=bool;WriteMethodType=bool{5C4384C1-5DEC-4CA1-B413-A0D7C2B1C903}NI 9403,Slot 4,1,cRIOModule.DigitalIOMode=0,cRIOModule.DisableArbitration=false,cRIOModule.EnableHsInput=false,cRIOModule.EnableHsOutput=false,cRIOModule.EnableSpecialtyDigital=false,cRIOModule.Initial Line Direction=11111111111111111111111111111111{5F8B7876-9C63-44F0-B025-79B818AACC78}resource=/Chassis Temperature;0;ReadMethodType=i16{6070E299-90E5-4B10-AAB2-BC638E93E52D}resource=/crio_Mod4/DIO30;0;ReadMethodType=bool;WriteMethodType=bool{61079C6C-B36F-4BA0-BDAB-16E02FCAEBB9}ResourceName=40 MHz Onboard Clock;TopSignalConnect=Clk40;ClockSignalName=Clk40;MinFreq=40000000,000000;MaxFreq=40000000,000000;VariableFreq=0;NomFreq=40000000,000000;PeakPeriodJitter=250,000000;MinDutyCycle=50,000000;MaxDutyCycle=50,000000;Accuracy=100,000000;RunTime=0;SpreadSpectrum=0;GenericDataHash=D41D8CD98F00B204E9800998ECF8427E{65C5BF1F-DEBC-443B-9F5B-AF3B939F37D0}resource=/crio_Mod4/DIO31;0;ReadMethodType=bool;WriteMethodType=bool{6994E470-F247-46D5-89AC-3CE625396993}resource=/crio_Mod4/DIO13;0;ReadMethodType=bool;WriteMethodType=bool{6C89EB14-BBE5-4887-9F54-ADD1CE1B6E0E}resource=/crio_Mod4/DIO16;0;ReadMethodType=bool;WriteMethodType=bool{753CC18B-9A8C-4FC2-B048-2DAFDA1FFC5C}resource=/crio_Mod4/DIO23:16;0;ReadMethodType=u8;WriteMethodType=u8{759EA9B2-A53E-45E3-AD3E-4A6608605BD1}resource=/crio_Mod4/DIO15;0;ReadMethodType=bool;WriteMethodType=bool{88E08A98-8C8C-46BC-9119-B09C36EC8CFB}resource=/crio_Mod4/DIO26;0;ReadMethodType=bool;WriteMethodType=bool{8C74BAD0-B1D4-4543-A6D5-703402F980F2}resource=/crio_Mod4/DIO12;0;ReadMethodType=bool;WriteMethodType=bool{8DC88558-E5CE-4AC9-B6BB-3959202B24E2}resource=/Scan Clock;0;ReadMethodType=bool{977D3FE7-30AE-400B-B8BE-B8C92EF350CF}resource=/crio_Mod4/DIO27;0;ReadMethodType=bool;WriteMethodType=bool{9E81A587-DA1D-497E-BA1B-F9C4264D3862}resource=/crio_Mod4/DIO14;0;ReadMethodType=bool;WriteMethodType=bool{A614A9A5-4FEE-4FCC-8163-09C84A9DCC97}resource=/crio_Mod4/DIO22;0;ReadMethodType=bool;WriteMethodType=bool{A883106D-2F2F-46BD-8B83-3B393F15DECF}resource=/crio_Mod4/DIO2;0;ReadMethodType=bool;WriteMethodType=bool{A934D878-4B33-41D0-BF58-8A154BACC4B9}resource=/crio_Mod4/DIO9;0;ReadMethodType=bool;WriteMethodType=bool{A9CED8A9-3AEC-4DAD-85F5-1598CD3802AF}resource=/crio_Mod4/DIO31:24;0;ReadMethodType=u8;WriteMethodType=u8{AB96B328-4BE3-4800-A0B6-E59263CD6399}resource=/crio_Mod4/DIO7;0;ReadMethodType=bool;WriteMethodType=bool{B09EAD89-F57C-4C9C-A43F-797E64BCDAA1}resource=/crio_Mod4/DIO0;0;ReadMethodType=bool;WriteMethodType=bool{B27EF61F-08AD-43E0-B425-93BA262C83A7}resource=/crio_Mod4/DIO25;0;ReadMethodType=bool;WriteMethodType=bool{C0C66C24-F188-46A2-AEC7-781CF556DBE2}resource=/crio_Mod4/DIO19;0;ReadMethodType=bool;WriteMethodType=bool{C24E9322-1C5B-47EE-81E1-A336999D9BBA}resource=/System Reset;0;ReadMethodType=bool;WriteMethodType=bool{CE84AC7E-CF52-48A9-8859-739A75BB51F0}resource=/crio_Mod4/DIO15:8;0;ReadMethodType=u8;WriteMethodType=u8{D00974A4-E462-4956-91D5-AC16B2923A72}resource=/crio_Mod4/DIO21;0;ReadMethodType=bool;WriteMethodType=bool{E122E325-99A3-428A-A204-C01C95EA9528}resource=/crio_Mod4/DIO31:0;0;ReadMethodType=u32;WriteMethodType=u32{E35C9178-9190-4A1B-A578-4B28907D4B08}resource=/crio_Mod4/DIO28;0;ReadMethodType=bool;WriteMethodType=bool{E6C0AA06-ED7D-47F2-B25A-3AB6D15222AB}resource=/crio_Mod4/DIO6;0;ReadMethodType=bool;WriteMethodType=bool{ED96FCA3-17A6-4D4D-8183-811F6F40CD07}resource=/crio_Mod4/DIO5;0;ReadMethodType=bool;WriteMethodType=bool{F136638C-A286-4CE3-A48A-18CC23D8C09F}resource=/crio_Mod4/DIO10;0;ReadMethodType=bool;WriteMethodType=bool{F4CB4157-3F64-408A-A410-44DCD30C7DF4}resource=/crio_Mod4/DIO3;0;ReadMethodType=bool;WriteMethodType=bool{FF048B63-D45C-46EC-A862-EBF3DAA9F9F9}resource=/crio_Mod4/DIO7:0;0;ReadMethodType=u8;WriteMethodType=u8cRIO-9074/Clk40/falseTARGET_TYPEFPGA</Property>
+				<Property Name="configString.name" Type="Str">40 MHz Onboard ClockResourceName=40 MHz Onboard Clock;TopSignalConnect=Clk40;ClockSignalName=Clk40;MinFreq=40000000,000000;MaxFreq=40000000,000000;VariableFreq=0;NomFreq=40000000,000000;PeakPeriodJitter=250,000000;MinDutyCycle=50,000000;MaxDutyCycle=50,000000;Accuracy=100,000000;RunTime=0;SpreadSpectrum=0;GenericDataHash=D41D8CD98F00B204E9800998ECF8427EChassis Temperatureresource=/Chassis Temperature;0;ReadMethodType=i16cRIO-9074/Clk40/falseTARGET_TYPEFPGAFPGA LEDresource=/FPGA LED;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO0resource=/crio_Mod4/DIO0;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO10resource=/crio_Mod4/DIO10;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO11resource=/crio_Mod4/DIO11;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO12resource=/crio_Mod4/DIO12;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO13resource=/crio_Mod4/DIO13;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO14resource=/crio_Mod4/DIO14;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO15:8resource=/crio_Mod4/DIO15:8;0;ReadMethodType=u8;WriteMethodType=u8Mod4/DIO15resource=/crio_Mod4/DIO15;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO16resource=/crio_Mod4/DIO16;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO17resource=/crio_Mod4/DIO17;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO18resource=/crio_Mod4/DIO18;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO19resource=/crio_Mod4/DIO19;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO1resource=/crio_Mod4/DIO1;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO20resource=/crio_Mod4/DIO20;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO21resource=/crio_Mod4/DIO21;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO22resource=/crio_Mod4/DIO22;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO23:16resource=/crio_Mod4/DIO23:16;0;ReadMethodType=u8;WriteMethodType=u8Mod4/DIO23resource=/crio_Mod4/DIO23;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO24resource=/crio_Mod4/DIO24;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO25resource=/crio_Mod4/DIO25;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO26resource=/crio_Mod4/DIO26;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO27resource=/crio_Mod4/DIO27;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO28resource=/crio_Mod4/DIO28;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO29resource=/crio_Mod4/DIO29;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO2resource=/crio_Mod4/DIO2;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO30resource=/crio_Mod4/DIO30;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO31:0resource=/crio_Mod4/DIO31:0;0;ReadMethodType=u32;WriteMethodType=u32Mod4/DIO31:24resource=/crio_Mod4/DIO31:24;0;ReadMethodType=u8;WriteMethodType=u8Mod4/DIO31resource=/crio_Mod4/DIO31;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO3resource=/crio_Mod4/DIO3;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO4resource=/crio_Mod4/DIO4;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO5resource=/crio_Mod4/DIO5;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO6resource=/crio_Mod4/DIO6;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO7:0resource=/crio_Mod4/DIO7:0;0;ReadMethodType=u8;WriteMethodType=u8Mod4/DIO7resource=/crio_Mod4/DIO7;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO8resource=/crio_Mod4/DIO8;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO9resource=/crio_Mod4/DIO9;0;ReadMethodType=bool;WriteMethodType=boolMod4NI 9403,Slot 4,1,cRIOModule.DigitalIOMode=0,cRIOModule.DisableArbitration=false,cRIOModule.EnableHsInput=false,cRIOModule.EnableHsOutput=false,cRIOModule.EnableSpecialtyDigital=false,cRIOModule.Initial Line Direction=11111111111111111111111111111111Scan Clockresource=/Scan Clock;0;ReadMethodType=boolSleepresource=/Sleep;0;ReadMethodType=bool;WriteMethodType=boolSystem Resetresource=/System Reset;0;ReadMethodType=bool;WriteMethodType=bool</Property>
+				<Property Name="Mode" Type="Int">0</Property>
+				<Property Name="NI.LV.FPGA.CompileConfigString" Type="Str">cRIO-9074/Clk40/falseTARGET_TYPEFPGA</Property>
+				<Property Name="NI.LV.FPGA.Version" Type="Int">4</Property>
+				<Property Name="Resource Name" Type="Str">RIO0</Property>
+				<Property Name="SWEmulationSubMode" Type="UInt">0</Property>
+				<Property Name="SWEmulationVIPath" Type="Path">/D/Work/LabView/scmproject/Sim.vi</Property>
+				<Property Name="Target Class" Type="Str">cRIO-9074</Property>
+				<Property Name="Top-Level Timing Source" Type="Str">40 MHz Onboard Clock</Property>
+				<Property Name="Top-Level Timing Source Is Default" Type="Bool">true</Property>
+				<Item Name="Chassis I/O" Type="Folder">
+					<Item Name="Chassis Temperature" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/Chassis Temperature</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{5F8B7876-9C63-44F0-B025-79B818AACC78}</Property>
+					</Item>
+					<Item Name="Sleep" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/Sleep</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{3C94EF33-4AE2-44D4-A409-7151EFC34081}</Property>
+					</Item>
+					<Item Name="System Reset" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/System Reset</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{C24E9322-1C5B-47EE-81E1-A336999D9BBA}</Property>
+					</Item>
+					<Item Name="FPGA LED" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/FPGA LED</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{56534C7C-D675-454A-9548-2A3F02A1B8BF}</Property>
+					</Item>
+					<Item Name="Scan Clock" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/Scan Clock</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{8DC88558-E5CE-4AC9-B6BB-3959202B24E2}</Property>
+					</Item>
 				</Item>
-				<Item Name="DIO1" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">1</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO1</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				<Item Name="Mod4" Type="Folder">
+					<Item Name="Mod4/DIO0" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO0</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{B09EAD89-F57C-4C9C-A43F-797E64BCDAA1}</Property>
+					</Item>
+					<Item Name="Mod4/DIO1" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO1</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{2C357E29-12D6-47DD-BA26-7FFDEB76BE1E}</Property>
+					</Item>
+					<Item Name="Mod4/DIO2" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO2</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{A883106D-2F2F-46BD-8B83-3B393F15DECF}</Property>
+					</Item>
+					<Item Name="Mod4/DIO3" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO3</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{F4CB4157-3F64-408A-A410-44DCD30C7DF4}</Property>
+					</Item>
+					<Item Name="Mod4/DIO4" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO4</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{4B0ECFF0-492F-4862-B39E-4BCD4E707FE7}</Property>
+					</Item>
+					<Item Name="Mod4/DIO5" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO5</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{ED96FCA3-17A6-4D4D-8183-811F6F40CD07}</Property>
+					</Item>
+					<Item Name="Mod4/DIO6" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO6</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{E6C0AA06-ED7D-47F2-B25A-3AB6D15222AB}</Property>
+					</Item>
+					<Item Name="Mod4/DIO7" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO7</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{AB96B328-4BE3-4800-A0B6-E59263CD6399}</Property>
+					</Item>
+					<Item Name="Mod4/DIO8" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO8</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{52D8CE75-4FA0-4252-8331-A7B87678F7F0}</Property>
+					</Item>
+					<Item Name="Mod4/DIO9" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO9</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{A934D878-4B33-41D0-BF58-8A154BACC4B9}</Property>
+					</Item>
+					<Item Name="Mod4/DIO10" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO10</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{F136638C-A286-4CE3-A48A-18CC23D8C09F}</Property>
+					</Item>
+					<Item Name="Mod4/DIO11" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO11</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{0821C250-8D76-4365-BCA4-924EF958F1C6}</Property>
+					</Item>
+					<Item Name="Mod4/DIO12" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO12</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{8C74BAD0-B1D4-4543-A6D5-703402F980F2}</Property>
+					</Item>
+					<Item Name="Mod4/DIO13" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO13</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{6994E470-F247-46D5-89AC-3CE625396993}</Property>
+					</Item>
+					<Item Name="Mod4/DIO14" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO14</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{9E81A587-DA1D-497E-BA1B-F9C4264D3862}</Property>
+					</Item>
+					<Item Name="Mod4/DIO15" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO15</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{759EA9B2-A53E-45E3-AD3E-4A6608605BD1}</Property>
+					</Item>
+					<Item Name="Mod4/DIO16" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO16</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{6C89EB14-BBE5-4887-9F54-ADD1CE1B6E0E}</Property>
+					</Item>
+					<Item Name="Mod4/DIO17" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO17</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{1B347F5D-B8B5-467F-84B9-F27DB9C85357}</Property>
+					</Item>
+					<Item Name="Mod4/DIO18" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO18</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{350B040E-80DE-4F22-996B-5DC00CF21715}</Property>
+					</Item>
+					<Item Name="Mod4/DIO19" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO19</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{C0C66C24-F188-46A2-AEC7-781CF556DBE2}</Property>
+					</Item>
+					<Item Name="Mod4/DIO20" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO20</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{41950625-4073-40B2-BE7A-3733DC53C7AF}</Property>
+					</Item>
+					<Item Name="Mod4/DIO21" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO21</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{D00974A4-E462-4956-91D5-AC16B2923A72}</Property>
+					</Item>
+					<Item Name="Mod4/DIO22" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO22</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{A614A9A5-4FEE-4FCC-8163-09C84A9DCC97}</Property>
+					</Item>
+					<Item Name="Mod4/DIO23" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO23</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{1794AAE0-08C2-4681-AC51-69D42856C932}</Property>
+					</Item>
+					<Item Name="Mod4/DIO24" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO24</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{0E626545-B038-438F-A0E5-859E90F9A3C4}</Property>
+					</Item>
+					<Item Name="Mod4/DIO25" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO25</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{B27EF61F-08AD-43E0-B425-93BA262C83A7}</Property>
+					</Item>
+					<Item Name="Mod4/DIO26" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO26</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{88E08A98-8C8C-46BC-9119-B09C36EC8CFB}</Property>
+					</Item>
+					<Item Name="Mod4/DIO27" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO27</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{977D3FE7-30AE-400B-B8BE-B8C92EF350CF}</Property>
+					</Item>
+					<Item Name="Mod4/DIO28" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO28</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{E35C9178-9190-4A1B-A578-4B28907D4B08}</Property>
+					</Item>
+					<Item Name="Mod4/DIO29" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO29</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{1C85CD82-4650-4951-A609-8759CD652FDC}</Property>
+					</Item>
+					<Item Name="Mod4/DIO30" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO30</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{6070E299-90E5-4B10-AAB2-BC638E93E52D}</Property>
+					</Item>
+					<Item Name="Mod4/DIO31" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO31</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{65C5BF1F-DEBC-443B-9F5B-AF3B939F37D0}</Property>
+					</Item>
+					<Item Name="Mod4/DIO7:0" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO7:0</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{FF048B63-D45C-46EC-A862-EBF3DAA9F9F9}</Property>
+					</Item>
+					<Item Name="Mod4/DIO15:8" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO15:8</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{CE84AC7E-CF52-48A9-8859-739A75BB51F0}</Property>
+					</Item>
+					<Item Name="Mod4/DIO23:16" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO23:16</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{753CC18B-9A8C-4FC2-B048-2DAFDA1FFC5C}</Property>
+					</Item>
+					<Item Name="Mod4/DIO31:24" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO31:24</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{A9CED8A9-3AEC-4DAD-85F5-1598CD3802AF}</Property>
+					</Item>
+					<Item Name="Mod4/DIO31:0" Type="Elemental IO">
+						<Property Name="eioAttrBag" Type="Xml"><AttributeSet name="">
+   <Attribute name="resource">
+   <Value>/crio_Mod4/DIO31:0</Value>
+   </Attribute>
+</AttributeSet>
+</Property>
+						<Property Name="FPGA.PersistentID" Type="Str">{E122E325-99A3-428A-A204-C01C95EA9528}</Property>
+					</Item>
 				</Item>
-				<Item Name="DIO2" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">2</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO2</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				<Item Name="40 MHz Onboard Clock" Type="FPGA Base Clock">
+					<Property Name="FPGA.PersistentID" Type="Str">{61079C6C-B36F-4BA0-BDAB-16E02FCAEBB9}</Property>
+					<Property Name="NI.LV.FPGA.BaseTSConfig" Type="Str">ResourceName=40 MHz Onboard Clock;TopSignalConnect=Clk40;ClockSignalName=Clk40;MinFreq=40000000,000000;MaxFreq=40000000,000000;VariableFreq=0;NomFreq=40000000,000000;PeakPeriodJitter=250,000000;MinDutyCycle=50,000000;MaxDutyCycle=50,000000;Accuracy=100,000000;RunTime=0;SpreadSpectrum=0;GenericDataHash=D41D8CD98F00B204E9800998ECF8427E</Property>
+					<Property Name="NI.LV.FPGA.BaseTSConfig.Accuracy" Type="Dbl">100</Property>
+					<Property Name="NI.LV.FPGA.BaseTSConfig.ClockSignalName" Type="Str">Clk40</Property>
+					<Property Name="NI.LV.FPGA.BaseTSConfig.MaxDutyCycle" Type="Dbl">50</Property>
+					<Property Name="NI.LV.FPGA.BaseTSConfig.MaxFrequency" Type="Dbl">40000000</Property>
+					<Property Name="NI.LV.FPGA.BaseTSConfig.MinDutyCycle" Type="Dbl">50</Property>
+					<Property Name="NI.LV.FPGA.BaseTSConfig.MinFrequency" Type="Dbl">40000000</Property>
+					<Property Name="NI.LV.FPGA.BaseTSConfig.NominalFrequency" Type="Dbl">40000000</Property>
+					<Property Name="NI.LV.FPGA.BaseTSConfig.PeakPeriodJitter" Type="Dbl">250</Property>
+					<Property Name="NI.LV.FPGA.BaseTSConfig.ResourceName" Type="Str">40 MHz Onboard Clock</Property>
+					<Property Name="NI.LV.FPGA.BaseTSConfig.SupportAndRequireRuntimeEnableDisable" Type="Bool">false</Property>
+					<Property Name="NI.LV.FPGA.BaseTSConfig.TopSignalConnect" Type="Str">Clk40</Property>
+					<Property Name="NI.LV.FPGA.BaseTSConfig.VariableFrequency" Type="Bool">false</Property>
+					<Property Name="NI.LV.FPGA.Valid" Type="Bool">true</Property>
+					<Property Name="NI.LV.FPGA.Version" Type="Int">4</Property>
 				</Item>
-				<Item Name="DIO3" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">3</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO3</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				<Item Name="Mod4" Type="RIO C Series Module">
+					<Property Name="crio.Calibration" Type="Str">1</Property>
+					<Property Name="crio.Location" Type="Str">Slot 4</Property>
+					<Property Name="crio.RequiresValidation" Type="Bool">false</Property>
+					<Property Name="crio.SDcounterSlaveChannelMask" Type="Str">0</Property>
+					<Property Name="crio.SDCounterSlaveMasterSlot" Type="Str">0</Property>
+					<Property Name="crio.SDInputFilter" Type="Str">128</Property>
+					<Property Name="crio.SupportsDynamicRes" Type="Bool">true</Property>
+					<Property Name="crio.Type" Type="Str">NI 9403</Property>
+					<Property Name="cRIOModule.DigitalIOMode" Type="Str">0</Property>
+					<Property Name="cRIOModule.DisableArbitration" Type="Str">false</Property>
+					<Property Name="cRIOModule.EnableSpecialtyDigital" Type="Str">false</Property>
+					<Property Name="cRIOModule.Initial Line Direction" Type="Str">11111111111111111111111111111111</Property>
+					<Property Name="FPGA.PersistentID" Type="Str">{5C4384C1-5DEC-4CA1-B413-A0D7C2B1C903}</Property>
 				</Item>
-				<Item Name="DIO4" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">4</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO4</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				<Item Name="RobotFPGA.vi" Type="VI" URL="../RobotFPGA.vi">
+					<Property Name="configString.guid" Type="Str">{0821C250-8D76-4365-BCA4-924EF958F1C6}resource=/crio_Mod4/DIO11;0;ReadMethodType=bool;WriteMethodType=bool{0E626545-B038-438F-A0E5-859E90F9A3C4}resource=/crio_Mod4/DIO24;0;ReadMethodType=bool;WriteMethodType=bool{1794AAE0-08C2-4681-AC51-69D42856C932}resource=/crio_Mod4/DIO23;0;ReadMethodType=bool;WriteMethodType=bool{1B347F5D-B8B5-467F-84B9-F27DB9C85357}resource=/crio_Mod4/DIO17;0;ReadMethodType=bool;WriteMethodType=bool{1C85CD82-4650-4951-A609-8759CD652FDC}resource=/crio_Mod4/DIO29;0;ReadMethodType=bool;WriteMethodType=bool{2C357E29-12D6-47DD-BA26-7FFDEB76BE1E}resource=/crio_Mod4/DIO1;0;ReadMethodType=bool;WriteMethodType=bool{350B040E-80DE-4F22-996B-5DC00CF21715}resource=/crio_Mod4/DIO18;0;ReadMethodType=bool;WriteMethodType=bool{3C94EF33-4AE2-44D4-A409-7151EFC34081}resource=/Sleep;0;ReadMethodType=bool;WriteMethodType=bool{41950625-4073-40B2-BE7A-3733DC53C7AF}resource=/crio_Mod4/DIO20;0;ReadMethodType=bool;WriteMethodType=bool{4B0ECFF0-492F-4862-B39E-4BCD4E707FE7}resource=/crio_Mod4/DIO4;0;ReadMethodType=bool;WriteMethodType=bool{52D8CE75-4FA0-4252-8331-A7B87678F7F0}resource=/crio_Mod4/DIO8;0;ReadMethodType=bool;WriteMethodType=bool{56534C7C-D675-454A-9548-2A3F02A1B8BF}resource=/FPGA LED;0;ReadMethodType=bool;WriteMethodType=bool{5C4384C1-5DEC-4CA1-B413-A0D7C2B1C903}NI 9403,Slot 4,1,cRIOModule.DigitalIOMode=0,cRIOModule.DisableArbitration=false,cRIOModule.EnableHsInput=false,cRIOModule.EnableHsOutput=false,cRIOModule.EnableSpecialtyDigital=false,cRIOModule.Initial Line Direction=11111111111111111111111111111111{5F8B7876-9C63-44F0-B025-79B818AACC78}resource=/Chassis Temperature;0;ReadMethodType=i16{6070E299-90E5-4B10-AAB2-BC638E93E52D}resource=/crio_Mod4/DIO30;0;ReadMethodType=bool;WriteMethodType=bool{61079C6C-B36F-4BA0-BDAB-16E02FCAEBB9}ResourceName=40 MHz Onboard Clock;TopSignalConnect=Clk40;ClockSignalName=Clk40;MinFreq=40000000,000000;MaxFreq=40000000,000000;VariableFreq=0;NomFreq=40000000,000000;PeakPeriodJitter=250,000000;MinDutyCycle=50,000000;MaxDutyCycle=50,000000;Accuracy=100,000000;RunTime=0;SpreadSpectrum=0;GenericDataHash=D41D8CD98F00B204E9800998ECF8427E{65C5BF1F-DEBC-443B-9F5B-AF3B939F37D0}resource=/crio_Mod4/DIO31;0;ReadMethodType=bool;WriteMethodType=bool{6994E470-F247-46D5-89AC-3CE625396993}resource=/crio_Mod4/DIO13;0;ReadMethodType=bool;WriteMethodType=bool{6C89EB14-BBE5-4887-9F54-ADD1CE1B6E0E}resource=/crio_Mod4/DIO16;0;ReadMethodType=bool;WriteMethodType=bool{753CC18B-9A8C-4FC2-B048-2DAFDA1FFC5C}resource=/crio_Mod4/DIO23:16;0;ReadMethodType=u8;WriteMethodType=u8{759EA9B2-A53E-45E3-AD3E-4A6608605BD1}resource=/crio_Mod4/DIO15;0;ReadMethodType=bool;WriteMethodType=bool{88E08A98-8C8C-46BC-9119-B09C36EC8CFB}resource=/crio_Mod4/DIO26;0;ReadMethodType=bool;WriteMethodType=bool{8C74BAD0-B1D4-4543-A6D5-703402F980F2}resource=/crio_Mod4/DIO12;0;ReadMethodType=bool;WriteMethodType=bool{8DC88558-E5CE-4AC9-B6BB-3959202B24E2}resource=/Scan Clock;0;ReadMethodType=bool{977D3FE7-30AE-400B-B8BE-B8C92EF350CF}resource=/crio_Mod4/DIO27;0;ReadMethodType=bool;WriteMethodType=bool{9E81A587-DA1D-497E-BA1B-F9C4264D3862}resource=/crio_Mod4/DIO14;0;ReadMethodType=bool;WriteMethodType=bool{A614A9A5-4FEE-4FCC-8163-09C84A9DCC97}resource=/crio_Mod4/DIO22;0;ReadMethodType=bool;WriteMethodType=bool{A883106D-2F2F-46BD-8B83-3B393F15DECF}resource=/crio_Mod4/DIO2;0;ReadMethodType=bool;WriteMethodType=bool{A934D878-4B33-41D0-BF58-8A154BACC4B9}resource=/crio_Mod4/DIO9;0;ReadMethodType=bool;WriteMethodType=bool{A9CED8A9-3AEC-4DAD-85F5-1598CD3802AF}resource=/crio_Mod4/DIO31:24;0;ReadMethodType=u8;WriteMethodType=u8{AB96B328-4BE3-4800-A0B6-E59263CD6399}resource=/crio_Mod4/DIO7;0;ReadMethodType=bool;WriteMethodType=bool{B09EAD89-F57C-4C9C-A43F-797E64BCDAA1}resource=/crio_Mod4/DIO0;0;ReadMethodType=bool;WriteMethodType=bool{B27EF61F-08AD-43E0-B425-93BA262C83A7}resource=/crio_Mod4/DIO25;0;ReadMethodType=bool;WriteMethodType=bool{C0C66C24-F188-46A2-AEC7-781CF556DBE2}resource=/crio_Mod4/DIO19;0;ReadMethodType=bool;WriteMethodType=bool{C24E9322-1C5B-47EE-81E1-A336999D9BBA}resource=/System Reset;0;ReadMethodType=bool;WriteMethodType=bool{CE84AC7E-CF52-48A9-8859-739A75BB51F0}resource=/crio_Mod4/DIO15:8;0;ReadMethodType=u8;WriteMethodType=u8{D00974A4-E462-4956-91D5-AC16B2923A72}resource=/crio_Mod4/DIO21;0;ReadMethodType=bool;WriteMethodType=bool{E122E325-99A3-428A-A204-C01C95EA9528}resource=/crio_Mod4/DIO31:0;0;ReadMethodType=u32;WriteMethodType=u32{E35C9178-9190-4A1B-A578-4B28907D4B08}resource=/crio_Mod4/DIO28;0;ReadMethodType=bool;WriteMethodType=bool{E6C0AA06-ED7D-47F2-B25A-3AB6D15222AB}resource=/crio_Mod4/DIO6;0;ReadMethodType=bool;WriteMethodType=bool{ED96FCA3-17A6-4D4D-8183-811F6F40CD07}resource=/crio_Mod4/DIO5;0;ReadMethodType=bool;WriteMethodType=bool{F136638C-A286-4CE3-A48A-18CC23D8C09F}resource=/crio_Mod4/DIO10;0;ReadMethodType=bool;WriteMethodType=bool{F4CB4157-3F64-408A-A410-44DCD30C7DF4}resource=/crio_Mod4/DIO3;0;ReadMethodType=bool;WriteMethodType=bool{FF048B63-D45C-46EC-A862-EBF3DAA9F9F9}resource=/crio_Mod4/DIO7:0;0;ReadMethodType=u8;WriteMethodType=u8cRIO-9074/Clk40/falseTARGET_TYPEFPGA</Property>
+					<Property Name="configString.name" Type="Str">40 MHz Onboard ClockResourceName=40 MHz Onboard Clock;TopSignalConnect=Clk40;ClockSignalName=Clk40;MinFreq=40000000,000000;MaxFreq=40000000,000000;VariableFreq=0;NomFreq=40000000,000000;PeakPeriodJitter=250,000000;MinDutyCycle=50,000000;MaxDutyCycle=50,000000;Accuracy=100,000000;RunTime=0;SpreadSpectrum=0;GenericDataHash=D41D8CD98F00B204E9800998ECF8427EChassis Temperatureresource=/Chassis Temperature;0;ReadMethodType=i16cRIO-9074/Clk40/falseTARGET_TYPEFPGAFPGA LEDresource=/FPGA LED;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO0resource=/crio_Mod4/DIO0;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO10resource=/crio_Mod4/DIO10;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO11resource=/crio_Mod4/DIO11;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO12resource=/crio_Mod4/DIO12;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO13resource=/crio_Mod4/DIO13;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO14resource=/crio_Mod4/DIO14;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO15:8resource=/crio_Mod4/DIO15:8;0;ReadMethodType=u8;WriteMethodType=u8Mod4/DIO15resource=/crio_Mod4/DIO15;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO16resource=/crio_Mod4/DIO16;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO17resource=/crio_Mod4/DIO17;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO18resource=/crio_Mod4/DIO18;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO19resource=/crio_Mod4/DIO19;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO1resource=/crio_Mod4/DIO1;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO20resource=/crio_Mod4/DIO20;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO21resource=/crio_Mod4/DIO21;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO22resource=/crio_Mod4/DIO22;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO23:16resource=/crio_Mod4/DIO23:16;0;ReadMethodType=u8;WriteMethodType=u8Mod4/DIO23resource=/crio_Mod4/DIO23;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO24resource=/crio_Mod4/DIO24;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO25resource=/crio_Mod4/DIO25;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO26resource=/crio_Mod4/DIO26;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO27resource=/crio_Mod4/DIO27;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO28resource=/crio_Mod4/DIO28;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO29resource=/crio_Mod4/DIO29;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO2resource=/crio_Mod4/DIO2;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO30resource=/crio_Mod4/DIO30;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO31:0resource=/crio_Mod4/DIO31:0;0;ReadMethodType=u32;WriteMethodType=u32Mod4/DIO31:24resource=/crio_Mod4/DIO31:24;0;ReadMethodType=u8;WriteMethodType=u8Mod4/DIO31resource=/crio_Mod4/DIO31;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO3resource=/crio_Mod4/DIO3;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO4resource=/crio_Mod4/DIO4;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO5resource=/crio_Mod4/DIO5;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO6resource=/crio_Mod4/DIO6;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO7:0resource=/crio_Mod4/DIO7:0;0;ReadMethodType=u8;WriteMethodType=u8Mod4/DIO7resource=/crio_Mod4/DIO7;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO8resource=/crio_Mod4/DIO8;0;ReadMethodType=bool;WriteMethodType=boolMod4/DIO9resource=/crio_Mod4/DIO9;0;ReadMethodType=bool;WriteMethodType=boolMod4NI 9403,Slot 4,1,cRIOModule.DigitalIOMode=0,cRIOModule.DisableArbitration=false,cRIOModule.EnableHsInput=false,cRIOModule.EnableHsOutput=false,cRIOModule.EnableSpecialtyDigital=false,cRIOModule.Initial Line Direction=11111111111111111111111111111111Scan Clockresource=/Scan Clock;0;ReadMethodType=boolSleepresource=/Sleep;0;ReadMethodType=bool;WriteMethodType=boolSystem Resetresource=/System Reset;0;ReadMethodType=bool;WriteMethodType=bool</Property>
+					<Property Name="NI.LV.FPGA.InterfaceBitfile" Type="Str">D:\Work\LabView\scmproject\FPGA Bitfiles\scmproject.lvproj_FPGA Target_RobotFPGA.vi.lvbitx</Property>
 				</Item>
-				<Item Name="DIO5" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">5</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO5</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DIO6" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">6</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO6</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DIO7" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">7</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO7</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DIO8" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">8</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO8</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DIO9" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">9</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO9</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DIO10" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">10</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO10</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DIO11" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">11</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO11</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DIO12" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">12</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO12</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DIO13" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">13</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO13</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DIO14" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">14</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO14</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DIO15" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">15</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO15</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DIO16" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">16</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO16</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DIO17" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">17</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO17</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DIO18" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">18</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO18</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DIO19" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">19</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO19</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DIO20" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">20</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO20</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DIO21" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">21</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO21</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DIO22" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">22</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO22</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DIO23" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">23</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO23</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DIO24" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">24</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO24</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DIO25" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">25</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO25</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DIO26" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">26</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO26</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DIO27" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">27</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO27</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DIO28" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">28</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO28</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DIO29" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">29</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO29</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DIO30" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">0</Property>
-					<Property Name="Industrial:EnableTimestamp" Type="Str">False</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO30</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str">/scmproject.lvproj/RT CompactRIO Target/Chassis/Mod4/</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DIO31" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">1</Property>
-					<Property Name="Industrial:EnableTimestamp" Type="Str">False</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DIO31</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="path" Type="Str"></Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDefPath" Type="Str"></Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!!E!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
+				<Item Name="Dependencies" Type="Dependencies"/>
+				<Item Name="Build Specifications" Type="Build"/>
 			</Item>
 		</Item>
-		<Item Name="IOTest.vi" Type="VI" URL="../IOTest.vi"/>
-		<Item Name="Dependencies" Type="Dependencies">
-			<Item Name="vi.lib" Type="Folder">
-				<Item Name="Camera.lvlib" Type="Library" URL="/&lt;vilib&gt;/Robotics Library/WPI/Camera/Camera.lvlib"/>
-				<Item Name="NI_FPGA_Interface.lvlib" Type="Library" URL="/&lt;vilib&gt;/Robotics Library/NIFPGAInterface/NI_FPGA_Interface.lvlib"/>
-				<Item Name="TCP Listen List Operations.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Listen List Operations.ctl"/>
-				<Item Name="TCP Listen Internal List.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Listen Internal List.vi"/>
-				<Item Name="Internecine Avoider.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/Internecine Avoider.vi"/>
-				<Item Name="TCP Listen.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Listen.vi"/>
-				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
-				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
-				<Item Name="FRC Build Error.vi" Type="VI" URL="/&lt;vilib&gt;/Robotics Library/WPI/Utilities/FRC Build Error.vi"/>
-				<Item Name="StatusErrorCache.ctl" Type="VI" URL="/&lt;vilib&gt;/Robotics Library/WPI/DriverStation/StatusErrorCache.ctl"/>
-				<Item Name="DriverStation.lvlib" Type="Library" URL="/&lt;vilib&gt;/Robotics Library/WPI/DriverStation/DriverStation.lvlib"/>
-				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
-				<Item Name="IMAQ Image.ctl" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/IMAQ Image.ctl"/>
-				<Item Name="IMAQ Create" Type="VI" URL="/&lt;vilib&gt;/vision/Basics.llb/IMAQ Create"/>
-				<Item Name="Image Type" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/Image Type"/>
-				<Item Name="Servo.lvlib" Type="Library" URL="/&lt;vilib&gt;/Robotics Library/WPI/PWM/Servo/Servo.lvlib"/>
-				<Item Name="NI_PID_pid.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/control/pid/NI_PID_pid.lvlib"/>
-				<Item Name="PWM.lvlib" Type="Library" URL="/&lt;vilib&gt;/Robotics Library/WPI/PWM/PWM.lvlib"/>
-				<Item Name="VariantType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/VariantDataType/VariantType.lvlib"/>
-				<Item Name="DigitalModule.lvlib" Type="Library" URL="/&lt;vilib&gt;/Robotics Library/WPI/DigitalModule/DigitalModule.lvlib"/>
-				<Item Name="Merge Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Merge Errors.vi"/>
-				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
-			</Item>
-			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
-			<Item Name="NiRioSrv.dll" Type="Document" URL="NiRioSrv.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
-		</Item>
+		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
