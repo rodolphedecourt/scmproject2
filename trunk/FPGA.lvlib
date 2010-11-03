@@ -8,9 +8,9 @@
 
 </Property>
 	<Item Name="FPGA_GetRef.vi" Type="VI" URL="../FPGA/FPGA_GetRef.vi"/>
-	<Item Name="FPGA_Open.vi" Type="VI" URL="../FPGA/FPGA_Open.vi"/>
-	<Item Name="FPGA VI Reference Out" Type="Variable">
+	<Item Name="FPGA_Ref" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Global</Property>
+		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="path" Type="Str"></Property>
@@ -18,4 +18,6 @@
 		<Property Name="typeDefPath" Type="Str"></Property>
 		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$*R1!!!!E!A!!!!!!"!,%!=!!5!!!!!!Z'5%&gt;")%FO&gt;'6S:G&amp;D:1!*!)!!!!!!!1!%!!!!!1!!!!!!!1!!!!F*&lt;H2F=G:B9W5*!)!!!!!!!1!91$$`````$HBN&lt;#"T&gt;(*J&lt;G=A&lt;X6U!!!"!!!!!!"+0&amp;:*0DR735ZB&lt;75_5G^C&lt;X2'5%&gt;",H:J0#^735ZB&lt;75_0%2F&gt;GFD:5ZB&lt;75_2F"(13"598*H:81],U2F&gt;GFD:5ZB&lt;75_0#^734Y!!!!!!!%!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
+	<Item Name="FPGA_Close.vi" Type="VI" URL="../FPGA/FPGA_Close.vi"/>
+	<Item Name="FPGA_Open.vi" Type="VI" URL="../FPGA/FPGA_Open.vi"/>
 </Library>
