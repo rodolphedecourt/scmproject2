@@ -1,5 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="9008000">
+	<Property Name="varPersistentID:{C54D04B2-5790-4089-8EE0-BFE19D864417}" Type="Ref">/My Computer/PWM.lvlib/PWM_DELETE_THIS</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -13,6 +14,7 @@
 		<Item Name="PWMTest.vi" Type="VI" URL="../PWMTest.vi"/>
 		<Item Name="PWM.lvlib" Type="Library" URL="../PWM.lvlib"/>
 		<Item Name="Servo.lvlib" Type="Library" URL="../Servo.lvlib"/>
+		<Item Name="Servo_test.vi" Type="VI" URL="../Servo/Servo_test.vi"/>
 		<Item Name="Motor.lvlib" Type="Library" URL="../Motor.lvlib"/>
 		<Item Name="Drive.lvlib" Type="Library" URL="../Drive.lvlib"/>
 		<Item Name="DriveTest.vi" Type="VI" URL="../DriveTest.vi"/>
@@ -23,6 +25,9 @@
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="NI_LVConfig.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/config.llb/NI_LVConfig.lvlib"/>
+				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
+				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 			</Item>
 			<Item Name="niriosrv.dll" Type="Document" URL="niriosrv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
