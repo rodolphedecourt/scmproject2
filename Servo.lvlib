@@ -10,9 +10,17 @@
 </Property>
 	<Item Name="Servo_SetAngle.vi" Type="VI" URL="../Servo/Servo_SetAngle.vi"/>
 	<Item Name="Servo_find_index.vi" Type="VI" URL="../Servo/Servo_find_index.vi"/>
-	<Item Name="Servo_global_test.vi" Type="VI" URL="../Servo/Servo_global_test.vi"/>
 	<Item Name="Servo_init.vi" Type="VI" URL="../Servo/Servo_init.vi"/>
 	<Item Name="ServoSettings.ini" Type="Document" URL="../Servo/ServoSettings.ini"/>
-	<Item Name="TEST.vi" Type="VI" URL="../Servo/TEST.vi"/>
 	<Item Name="Servo_enable.vi" Type="VI" URL="../Servo/Servo_enable.vi"/>
+	<Item Name="Servo_Config" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Global</Property>
+		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="path" Type="Str"></Property>
+		<Property Name="type" Type="Str">Global</Property>
+		<Property Name="typeDefPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"&gt;71!!!!E!A!!!!!!'!""!-0````]'5X2S;7ZH!!!,1!I!"8:B&lt;(6F!!A!5!!"!!%!$!"!!!(`````!!)!#A"1!!)!!!!$!!Q!1!!"`````Q!%!!%!"1!!!!!!!!!!!!!!!!</Property>
+	</Item>
 </Library>
