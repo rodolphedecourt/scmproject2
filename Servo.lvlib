@@ -14,4 +14,5 @@
 	<Item Name="Servo_init.vi" Type="VI" URL="../Servo/Servo_init.vi"/>
 	<Item Name="ServoSettings.ini" Type="Document" URL="../Servo/ServoSettings.ini"/>
 	<Item Name="TEST.vi" Type="VI" URL="../Servo/TEST.vi"/>
+	<Item Name="Servo_enable.vi" Type="VI" URL="../Servo/Servo_enable.vi"/>
 </Library>
