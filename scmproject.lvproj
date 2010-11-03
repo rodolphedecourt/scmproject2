@@ -22,35 +22,8 @@
 				<Item Name="Merge Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Merge Errors.vi"/>
 				<Item Name="NI_XNodeSupport.lvlib" Type="Library" URL="/&lt;vilib&gt;/XNodeSupport/NI_XNodeSupport.lvlib"/>
 				<Item Name="imagedata.ctl" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/imagedata.ctl"/>
-				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
-				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
-				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 			</Item>
 			<Item Name="scmproject.lvproj_FPGA Target_RobotFPGA.vi.lvbitx" Type="Document" URL="../FPGA Bitfiles/scmproject.lvproj_FPGA Target_RobotFPGA.vi.lvbitx"/>
-			<Item Name="nirviCleanSpecificError.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/nirviCleanSpecificError.vi"/>
-			<Item Name="nirviRandomDataClose.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/RandomDataEmulation/nirviRandomDataClose.vi"/>
-			<Item Name="EIOXNodeUserErrorTypes.ctl" Type="VI" URL="/&lt;vilib&gt;/eio/XNode/Errors/EIOXNodeUserErrorTypes.ctl"/>
-			<Item Name="EIOXNodeInternalErrorTypes.ctl" Type="VI" URL="/&lt;vilib&gt;/eio/XNode/Errors/EIOXNodeInternalErrorTypes.ctl"/>
-			<Item Name="EIOXNodeErrorStruct.ctl" Type="VI" URL="/&lt;vilib&gt;/eio/XNode/Errors/EIOXNodeErrorStruct.ctl"/>
-			<Item Name="niLvFpgaEmulationMode.ctl" Type="VI" URL="/C/Program Files/National Instruments/LabVIEW 2009/resource/RVI/emulation/niLvFpgaEmulationMode.ctl"/>
-			<Item Name="nirviIntfModes.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/common/nirviIntfModes.ctl"/>
-			<Item Name="nirviIntfCommonState.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/common/nirviIntfCommonState.ctl"/>
-			<Item Name="nirviopenstate.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/nirviOpenFPGA/nirviopenstate.ctl"/>
-			<Item Name="niLvFpgaFormatErrorSource.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaFormatErrorSource.vi"/>
-			<Item Name="niLvFpgaErrorClusterFromErrorCode.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaErrorClusterFromErrorCode.vi"/>
-			<Item Name="niLvFpgaMergeErrorWithErrorCode.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaMergeErrorWithErrorCode.vi"/>
-			<Item Name="nirviFifoGUIDConstant.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/project/nirviFifoGUIDConstant.vi"/>
-			<Item Name="nirviExtractInfoFromVIQualifiedName.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/common/nirviExtractInfoFromVIQualifiedName.vi"/>
-			<Item Name="nirviFPGADeviceGUIDConstant.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/project/nirviFPGADeviceGUIDConstant.vi"/>
-			<Item Name="nirviGetTargetItemRefnum.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/project/nirviGetTargetItemRefnum.vi"/>
-			<Item Name="nirviVILibraryGUIDConstant.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/project/nirviVILibraryGUIDConstant.vi"/>
-			<Item Name="nirviOwningLibraryOfProjectItem.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/project/nirviOwningLibraryOfProjectItem.vi"/>
-			<Item Name="nirviVIActualGUID.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/project/nirviVIActualGUID.vi"/>
-			<Item Name="nirviGetVIShortcutItemFromTargetItem.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/project/nirviGetVIShortcutItemFromTargetItem.vi"/>
-			<Item Name="nirviVIUnderDevice.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/project/nirviVIUnderDevice.vi"/>
-			<Item Name="nirviOpenVIInDeviceContext.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/common/nirviOpenVIInDeviceContext.vi"/>
-			<Item Name="nirviRandomDataOpen.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/RandomDataEmulation/nirviRandomDataOpen.vi"/>
-			<Item Name="nirio_resource_hc.ctl" Type="VI" URL="/&lt;vilib&gt;/userdefined/High Color/nirio_resource_hc.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
