@@ -9,5 +9,6 @@
 </Property>
 	<Item Name="Motor_SetSpeed.vi" Type="VI" URL="../Motor/Motor_SetSpeed.vi"/>
 	<Item Name="ControllerType.ctl" Type="VI" URL="../Motor/ControllerType.ctl"/>
-	<Item Name="Motor_Init.vi" Type="VI" URL="../Motor_Init.vi"/>
+	<Item Name="Motor_Init.vi" Type="VI" URL="../Motor/Motor_Init.vi"/>
+	<Item Name="Motor_Close.vi" Type="VI" URL="../Motor/Motor_Close.vi"/>
 </Library>
