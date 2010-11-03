@@ -1,6 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="9008000">
-	<Property Name="varPersistentID:{C54D04B2-5790-4089-8EE0-BFE19D864417}" Type="Ref">/My Computer/PWM.lvlib/PWM_DELETE_THIS</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -14,6 +13,7 @@
 		<Item Name="PWMTest.vi" Type="VI" URL="../PWMTest.vi"/>
 		<Item Name="PWM.lvlib" Type="Library" URL="../PWM.lvlib"/>
 		<Item Name="Servo.lvlib" Type="Library" URL="../Servo.lvlib"/>
+		<Item Name="Motor.lvlib" Type="Library" URL="../Motor.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
