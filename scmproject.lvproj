@@ -2,6 +2,7 @@
 <Project Type="Project" LVVersion="9008000">
 	<Property Name="varPersistentID:{211B47DE-6E85-45E5-87D6-BE42AA46BADD}" Type="Ref">/My Computer/FPGA.lvlib/FPGA_Ref</Property>
 	<Property Name="varPersistentID:{269D229A-A78A-438B-9499-F4805C7733B2}" Type="Ref">/My Computer/Servo.lvlib/Servo_Config</Property>
+	<Property Name="varPersistentID:{5FFB20CE-4D78-4FBD-9FD6-3A897E152826}" Type="Ref">/My Computer/Utility.lvlib/Settings_Variable</Property>
 	<Property Name="varPersistentID:{719C38D4-E9B7-431D-8C76-CB8D86C9DAEE}" Type="Ref">/My Computer/Servo.lvlib/Servo_Angles</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
