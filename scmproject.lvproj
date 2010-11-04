@@ -16,12 +16,12 @@
 		<Item Name="PWMTest.vi" Type="VI" URL="../PWMTest.vi"/>
 		<Item Name="PWM.lvlib" Type="Library" URL="../PWM.lvlib"/>
 		<Item Name="Servo.lvlib" Type="Library" URL="../Servo.lvlib"/>
-		<Item Name="Servo_test.vi" Type="VI" URL="../Servo/Servo_test.vi"/>
 		<Item Name="Motor.lvlib" Type="Library" URL="../Motor.lvlib"/>
 		<Item Name="Drive.lvlib" Type="Library" URL="../Drive.lvlib"/>
 		<Item Name="DriveTest.vi" Type="VI" URL="../DriveTest.vi"/>
 		<Item Name="FPGA.lvlib" Type="Library" URL="../FPGA.lvlib"/>
-		<Item Name="Settings_init.vi" Type="VI" URL="../Settings_init.vi"/>
+		<Item Name="Servo_test.vi" Type="VI" URL="../Servo/Servo_test.vi"/>
+		<Item Name="Utility.lvlib" Type="Library" URL="../Utility.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Merge Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Merge Errors.vi"/>
@@ -31,19 +31,11 @@
 				<Item Name="NI_LVConfig.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/config.llb/NI_LVConfig.lvlib"/>
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
-				<Item Name="Get System Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/Get System Directory.vi"/>
-				<Item Name="System Directory Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/System Directory Type.ctl"/>
 			</Item>
 			<Item Name="niriosrv.dll" Type="Document" URL="niriosrv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="scmproject.lvproj_FPGA Target_RobotFPGA.vi.lvbitx" Type="Document" URL="../FPGA Bitfiles/scmproject.lvproj_FPGA Target_RobotFPGA.vi.lvbitx"/>
-			<Item Name="niLvFpgaFormatErrorSource.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaFormatErrorSource.vi"/>
-			<Item Name="niLvFpgaWhatHappensToTopLevelVI.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaWhatHappensToTopLevelVI.ctl"/>
-			<Item Name="niFpgaNodeNameForErrorReporting.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/common/niFpgaNodeNameForErrorReporting.ctl"/>
-			<Item Name="niLvFpgaAdjustHostInterfaceError.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaAdjustHostInterfaceError.vi"/>
-			<Item Name="_nirio_device_handleType.ctl" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Targets/FPGA/Rio/nirio_driverPrimitives.llb/_nirio_device_handleType.ctl"/>
-			<Item Name="nirio_WriteBig.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Targets/FPGA/Rio/nirio_HostInterface/nirio_WriteBig.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
