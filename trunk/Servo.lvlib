@@ -24,4 +24,15 @@
 		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"&gt;71!!!!E!A!!!!!!'!""!-0````]'5X2S;7ZH!!!,1!I!"8:B&lt;(6F!!A!5!!"!!%!$!"!!!(`````!!)!#A"1!!)!!!!$!!Q!1!!"`````Q!%!!%!"1!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="Servo_SetCamera.vi" Type="VI" URL="../Servo/Servo_SetCamera.vi"/>
+	<Item Name="Servo_Angles" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Global</Property>
+		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="path" Type="Str"></Property>
+		<Property Name="type" Type="Str">Global</Property>
+		<Property Name="typeDefPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!`/Q!!!!E!A!!!!!!#!"&amp;!#A!+17ZH&lt;'5A;7YA-Q!!#A"1!!)!!!!!!!%!!1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Servo_getAngle.vi" Type="VI" URL="../Servo/Servo_getAngle.vi"/>
 </Library>
