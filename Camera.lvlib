@@ -1,5 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="9008000">
+	<Property Name="NI.Lib.Description" Type="Str">This library contains the function to work with robot camera.s</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*2!!!*Q(C=\&gt;5R&lt;NN!%)8B&amp;S.&amp;#D5KUQ5#=I+Z!C`AAF?98-!!7Z&gt;K5QZ3OV%8NY)&lt;&gt;U;GS1&amp;U"6W"`H=VMF6&amp;"B)D,ER[+/LN=P=4O;#FPHW30GI_NSX_O,WAP8&gt;JB`[ZG/&gt;$669.B`0_NTA%*_U6V(Z[V@'M1WP]R804@*R`@G[JHM@$X`__-_VH.LVP\^P`X;\0,N*88\-@V&amp;Z%6&amp;*"/76K5]V*HO2*HO2*HO2"(O2"(O2"(O2/\O2/\O2/\O2'&lt;O2'&lt;O2'&lt;O2^*R?ZS%5/+:E]G3A:."EA[1R&amp;S3(R**\%EXDYKM34?"*0YEE]&gt;&amp;(C34S**`%E(CZ4YEE]C3@R*"['[J,M/TG?R-0Q#DS"*`!%HM$$F!I]!3#9,"AY'!3'AM&lt;A*0!%HM$$K1*0Y!E]A3@QU+T!%XA#4_!*0&amp;T3\UJU4&gt;P*]4#-()`D=4S/R`%QN"S0YX%]DM@R-*U=D_.R%-[%TO!1Z&amp;TE&gt;(#_/"\(QY==D_.R0)\(]&gt;$5HZ$X/^-U&lt;3@(9XA-D_%R0);()72Y$)`B-4S'BW&amp;F?!S0Y4%]BI?J:(A-D_%R)-;E4#^D-/.#IZ-2'"\__GKR`J3C3[TP5CV?V;*5,4&lt;6)F)N$N6$6TV-V5.3X8T6468&gt;,.6.50UY&amp;6K&amp;55WCOLBVV*\DDNJ3'WJ.4&gt;2)$&gt;3+7L:,`X((`8[PX7[H\8;LT7;D^8KN;:IUDK/'9&gt;"KN&gt;*SO8R[$8RB@XIB(.Z,VZSX_PF^_PTQ9YD\]&gt;P88\_(O^P,KZND7[N8_F`["N[.ON$JO.SD2Y`I@*Y!!!!!</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
