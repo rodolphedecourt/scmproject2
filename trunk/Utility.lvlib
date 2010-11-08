@@ -18,5 +18,4 @@
 		<Property Name="typeDefPath" Type="Str"></Property>
 		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"=7!!!!!E!A!!!!!!&amp;!""!-0````]'5X2S;7ZH!!!-!%!!!@````]!!!!/1$$`````"8:B&lt;(6F!!Q!1!!"`````Q!#!!I!5!!#!!%!!Q!"!!1!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="TEST.vi" Type="VI" URL="../Utility/TEST.vi"/>
 </Library>
