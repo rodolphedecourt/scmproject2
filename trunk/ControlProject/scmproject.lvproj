@@ -532,6 +532,6 @@
 			</Item>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
-		<Item Name="Build Specifications" Type="Build"/>
+
 	</Item>
 </Project>
