@@ -11,7 +11,6 @@
 	<Item Name="Servo_SetAngle.vi" Type="VI" URL="../Servo/Servo_SetAngle.vi"/>
 	<Item Name="Servo_find_index.vi" Type="VI" URL="../Servo/Servo_find_index.vi"/>
 	<Item Name="Servo_init.vi" Type="VI" URL="../Servo/Servo_init.vi"/>
-	<Item Name="ServoSettings.ini" Type="Document" URL="../Servo/ServoSettings.ini"/>
 	<Item Name="Servo_enable.vi" Type="VI" URL="../Servo/Servo_enable.vi"/>
 	<Item Name="Servo_Config" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Global</Property>
