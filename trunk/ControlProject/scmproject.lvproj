@@ -24,7 +24,6 @@
 		<Item Name="Servo_test.vi" Type="VI" URL="../Servo/Servo_test.vi"/>
 		<Item Name="Utility.lvlib" Type="Library" URL="../Utility.lvlib"/>
 		<Item Name="RobotSettings.ini" Type="Document" URL="../RobotSettings.ini"/>
-		<Item Name="Empty.vi" Type="VI" URL="../Empty.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Merge Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Merge Errors.vi"/>
