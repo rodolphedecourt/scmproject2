@@ -7,4 +7,6 @@
 	<Property Name="NI.Lib.LocalName" Type="Str">Drive_Utils</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Drive_Utils_DistanceRadiusToLeftRight.vi" Type="VI" URL="../Drive_Utils_DistanceRadiusToLeftRight.vi"/>
+	<Item Name="Drive_Utils_CalculateSpeed.vi" Type="VI" URL="../Drive_Utils_CalculateSpeed.vi"/>
+	<Item Name="Drive_Utils_CalculateScale.vi" Type="VI" URL="../Drive_Utils_CalculateScale.vi"/>
 </Library>
