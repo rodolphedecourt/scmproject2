@@ -12,4 +12,5 @@
 	<Item Name="ControllerType.ctl" Type="VI" URL="../Motor/ControllerType.ctl"/>
 	<Item Name="Motor_Init.vi" Type="VI" URL="../Motor/Motor_Init.vi"/>
 	<Item Name="Motor_Close.vi" Type="VI" URL="../Motor/Motor_Close.vi"/>
+	<Item Name="Motor_Calibrate.vi" Type="VI" URL="../Motor/Motor_Calibrate.vi"/>
 </Library>
