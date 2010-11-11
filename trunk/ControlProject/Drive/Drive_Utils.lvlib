@@ -13,5 +13,6 @@
 	<Item Name="Drive_Constants.vi" Type="VI" URL="../Drive_Constants.vi"/>
 	<Item Name="Drive_Utils_XYtoDistanceAngle.vi" Type="VI" URL="../Drive_Utils_XYtoDistanceAngle.vi"/>
 	<Item Name="Drive_Utils_ConvertSpeed.vi" Type="VI" URL="../Drive_Utils_ConvertSpeed.vi"/>
-	<Item Name="Drive_Utils_UpdatePosition.vi" Type="VI" URL="../Drive_Utils_UpdatePosition.vi"/>
+	<Item Name="Drive_Utils_UpdateState.vi" Type="VI" URL="../Drive_Utils_UpdateState.vi"/>
+	<Item Name="Drive_Utils_RelativeXYtoAbsolute.vi" Type="VI" URL="../Drive_Utils_RelativeXYtoAbsolute.vi"/>
 </Library>
