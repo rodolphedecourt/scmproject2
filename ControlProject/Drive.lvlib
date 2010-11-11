@@ -12,19 +12,9 @@
 	<Item Name="Drive_SetMotorsSpeed.vi" Type="VI" URL="../Drive/Drive_SetMotorsSpeed.vi"/>
 	<Item Name="Drive_PositionControl.vi" Type="VI" URL="../Drive/Drive_PositionControl.vi"/>
 	<Item Name="Drive_Utils.lvlib" Type="Library" URL="../Drive/Drive_Utils.lvlib"/>
-	<Item Name="Drive_Queue.vi" Type="VI" URL="../Drive/Drive_Queue.vi"/>
-	<Item Name="Drive_PositionControl_Acc_Var" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Global</Property>
-		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
-		<Property Name="Network:UseBinding" Type="Str">False</Property>
-		<Property Name="Network:UseBuffering" Type="Str">False</Property>
-		<Property Name="path" Type="Str"></Property>
-		<Property Name="type" Type="Str">Global</Property>
-		<Property Name="typeDefPath" Type="Str"></Property>
-		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!!E!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
-	</Item>
-	<Item Name="Drive_AbortCurrent" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Global</Property>
+	<Item Name="Drive_AbortPositionControl" Type="Variable">
+		<Property Name="Description:Description" Type="Str">This variable is used to abort the execution of position control VI</Property>
+		<Property Name="featurePacks" Type="Str">Description,Global</Property>
 		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
@@ -34,4 +24,16 @@
 		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!!E!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="Drive_StopDrive.vi" Type="VI" URL="../Drive/Drive_StopDrive.vi"/>
+	<Item Name="Drive_PositionControlMode.ctl" Type="VI" URL="../Drive/Drive_PositionControlMode.ctl"/>
+	<Item Name="Drive_CalculateMovement.vi" Type="VI" URL="../Drive/Drive_CalculateMovement.vi"/>
+	<Item Name="Drive_RobotState" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Global</Property>
+		<Property Name="Global:EnableTimestamp" Type="Str">True</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="path" Type="Str"></Property>
+		<Property Name="type" Type="Str">Global</Property>
+		<Property Name="typeDefPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&lt;FQ!!!!E!A!!!!!!)!!&gt;!#A!"7!!(1!I!!6E!#U!+!!6"&lt;G&gt;M:1!71&amp;!!!Q!!!!%!!AB1&lt;X.J&gt;'FP&lt;A!!#U!+!!2-:7:U!!!,1!I!"6*J:WBU!""!5!!#!!1!"164='6F:!!+!&amp;!!!A!$!!9!!1!(!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
 </Library>
