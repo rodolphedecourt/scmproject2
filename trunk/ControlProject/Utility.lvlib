@@ -19,4 +19,5 @@
 		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"=7!!!!!E!A!!!!!!&amp;!""!-0````]'5X2S;7ZH!!!-!%!!!@````]!!!!/1$$`````"8:B&lt;(6F!!Q!1!!"`````Q!#!!I!5!!#!!%!!Q!"!!1!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="Utility_getPath.vi" Type="VI" URL="../Utility/Utility_getPath.vi"/>
+	<Item Name="Utility_getIterationTime.vi" Type="VI" URL="../Utility/Utility_getIterationTime.vi"/>
 </Library>
