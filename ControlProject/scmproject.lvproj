@@ -1,11 +1,17 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="9008000">
-	<Property Name="varPersistentID:{211B47DE-6E85-45E5-87D6-BE42AA46BADD}" Type="Ref">/My Computer/FPGA.lvlib/FPGA_Ref</Property>
-	<Property Name="varPersistentID:{269D229A-A78A-438B-9499-F4805C7733B2}" Type="Ref">/My Computer/Servo.lvlib/Servo_Config</Property>
-	<Property Name="varPersistentID:{3D498142-3FB0-4497-8C09-75A0010EAD6C}" Type="Ref">/My Computer/Drive.lvlib/Drive_AbortPositionControl</Property>
-	<Property Name="varPersistentID:{5FFB20CE-4D78-4FBD-9FD6-3A897E152826}" Type="Ref">/My Computer/Utility.lvlib/Settings_Variable</Property>
-	<Property Name="varPersistentID:{719C38D4-E9B7-431D-8C76-CB8D86C9DAEE}" Type="Ref">/My Computer/Servo.lvlib/Servo_Angles</Property>
-	<Property Name="varPersistentID:{F38CC261-2707-4686-A1DF-11687BE95A1B}" Type="Ref">/My Computer/Drive.lvlib/Drive_RobotState</Property>
+	<Property Name="varPersistentID:{13094996-6415-4D70-85DB-81D246267E88}" Type="Ref">/My Computer/Dependencies/Servo.lvlib/Servo_Angles</Property>
+	<Property Name="varPersistentID:{211B47DE-6E85-45E5-87D6-BE42AA46BADD}" Type="Ref">/RT CompactRIO Target/FPGA.lvlib/FPGA_Ref</Property>
+	<Property Name="varPersistentID:{269D229A-A78A-438B-9499-F4805C7733B2}" Type="Ref">/RT CompactRIO Target/Servo.lvlib/Servo_Config</Property>
+	<Property Name="varPersistentID:{2836F5D2-69E2-4C7C-913E-57152710D7E0}" Type="Ref">/My Computer/Dependencies/Utility.lvlib/Settings_Variable</Property>
+	<Property Name="varPersistentID:{3D498142-3FB0-4497-8C09-75A0010EAD6C}" Type="Ref">/RT CompactRIO Target/Drive.lvlib/Drive_AbortPositionControl</Property>
+	<Property Name="varPersistentID:{5FFB20CE-4D78-4FBD-9FD6-3A897E152826}" Type="Ref">/RT CompactRIO Target/Utility.lvlib/Settings_Variable</Property>
+	<Property Name="varPersistentID:{719C38D4-E9B7-431D-8C76-CB8D86C9DAEE}" Type="Ref">/RT CompactRIO Target/Servo.lvlib/Servo_Angles</Property>
+	<Property Name="varPersistentID:{7B0896A1-016A-4E21-ABDE-AB32662839EB}" Type="Ref">/My Computer/Dependencies/Servo.lvlib/Servo_Config</Property>
+	<Property Name="varPersistentID:{992DECA4-7D1C-445A-B9F7-9CAF33BFEF20}" Type="Ref">/My Computer/Dependencies/Drive.lvlib/Drive_AbortPositionControl</Property>
+	<Property Name="varPersistentID:{D8373869-42E9-4EAE-B0AB-FA3163D986EE}" Type="Ref">/My Computer/Dependencies/FPGA.lvlib/FPGA_Ref</Property>
+	<Property Name="varPersistentID:{F38CC261-2707-4686-A1DF-11687BE95A1B}" Type="Ref">/RT CompactRIO Target/Drive.lvlib/Drive_RobotState</Property>
+	<Property Name="varPersistentID:{F91267B5-EAF7-4D8D-8185-04A36D3D5CE8}" Type="Ref">/My Computer/Dependencies/Drive.lvlib/Drive_RobotState</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -17,15 +23,8 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="PWMTest.vi" Type="VI" URL="../PWMTest.vi"/>
-		<Item Name="PWM.lvlib" Type="Library" URL="../PWM.lvlib"/>
-		<Item Name="Servo.lvlib" Type="Library" URL="../Servo.lvlib"/>
-		<Item Name="Motor.lvlib" Type="Library" URL="../Motor.lvlib"/>
-		<Item Name="Drive.lvlib" Type="Library" URL="../Drive.lvlib"/>
 		<Item Name="DriveTest.vi" Type="VI" URL="../DriveTest.vi"/>
-		<Item Name="FPGA.lvlib" Type="Library" URL="../FPGA.lvlib"/>
 		<Item Name="Servo_test.vi" Type="VI" URL="../Servo/Servo_test.vi"/>
-		<Item Name="Utility.lvlib" Type="Library" URL="../Utility.lvlib"/>
-		<Item Name="RobotSettings.ini" Type="Document" URL="../RobotSettings.ini"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Merge Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Merge Errors.vi"/>
@@ -40,13 +39,19 @@
 			<Item Name="niriosrv.dll" Type="Document" URL="niriosrv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="PWM.lvlib" Type="Library" URL="../PWM.lvlib"/>
+			<Item Name="FPGA.lvlib" Type="Library" URL="../FPGA.lvlib"/>
+			<Item Name="Drive.lvlib" Type="Library" URL="../Drive.lvlib"/>
+			<Item Name="Motor.lvlib" Type="Library" URL="../Motor.lvlib"/>
+			<Item Name="Utility.lvlib" Type="Library" URL="../Utility.lvlib"/>
+			<Item Name="Servo.lvlib" Type="Library" URL="../Servo.lvlib"/>
 			<Item Name="scmproject.lvproj_FPGA Target_RobotFPGA.vi.lvbitx" Type="Document" URL="../FPGA Bitfiles/scmproject.lvproj_FPGA Target_RobotFPGA.vi.lvbitx"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 	<Item Name="RT CompactRIO Target" Type="RT CompactRIO">
 		<Property Name="alias.name" Type="Str">RT CompactRIO Target</Property>
-		<Property Name="alias.value" Type="Str">10.0.0.2</Property>
+		<Property Name="alias.value" Type="Str">10.0.0.52</Property>
 		<Property Name="CCSymbols" Type="Str">OS,VxWorks;CPU,PowerPC;TARGET_TYPE,RT;</Property>
 		<Property Name="crio.family" Type="Str">901x</Property>
 		<Property Name="host.ResponsivenessCheckEnabled" Type="Bool">true</Property>
@@ -93,6 +98,14 @@
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
 		<Property Name="TargetOSID" Type="Str">VxWorks-PPC603</Property>
+		<Item Name="PWM.lvlib" Type="Library" URL="../PWM.lvlib"/>
+		<Item Name="Servo.lvlib" Type="Library" URL="../Servo.lvlib"/>
+		<Item Name="Motor.lvlib" Type="Library" URL="../Motor.lvlib"/>
+		<Item Name="Drive.lvlib" Type="Library" URL="../Drive.lvlib"/>
+		<Item Name="FPGA.lvlib" Type="Library" URL="../FPGA.lvlib"/>
+		<Item Name="Utility.lvlib" Type="Library" URL="../Utility.lvlib"/>
+		<Item Name="RobotSettings.ini" Type="Document" URL="../RobotSettings.ini"/>
+		<Item Name="PositionControlTest.vi" Type="VI" URL="../PositionControlTest.vi"/>
 		<Item Name="Chassis" Type="cRIO Chassis">
 			<Property Name="crio.ProgrammingMode" Type="Str">fpga</Property>
 			<Property Name="crio.ResourceID" Type="Str">RIO0</Property>
@@ -534,7 +547,22 @@
 				<Item Name="Build Specifications" Type="Build"/>
 			</Item>
 		</Item>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="vi.lib" Type="Folder">
+				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
+				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
+				<Item Name="Merge Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Merge Errors.vi"/>
+				<Item Name="NI_LVConfig.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/config.llb/NI_LVConfig.lvlib"/>
+				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
+				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
+				<Item Name="subTimeDelay.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/TimeDelayBlock.llb/subTimeDelay.vi"/>
+			</Item>
+			<Item Name="NiRioSrv.dll" Type="Document" URL="NiRioSrv.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="scmproject.lvproj_FPGA Target_RobotFPGA.vi.lvbitx" Type="Document" URL="../FPGA Bitfiles/scmproject.lvproj_FPGA Target_RobotFPGA.vi.lvbitx"/>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
