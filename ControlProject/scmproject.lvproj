@@ -51,7 +51,7 @@
 	</Item>
 	<Item Name="RT CompactRIO Target" Type="RT CompactRIO">
 		<Property Name="alias.name" Type="Str">RT CompactRIO Target</Property>
-		<Property Name="alias.value" Type="Str">10.0.0.52</Property>
+		<Property Name="alias.value" Type="Str">10.0.0.2</Property>
 		<Property Name="CCSymbols" Type="Str">OS,VxWorks;CPU,PowerPC;TARGET_TYPE,RT;</Property>
 		<Property Name="crio.family" Type="Str">901x</Property>
 		<Property Name="host.ResponsivenessCheckEnabled" Type="Bool">true</Property>
@@ -98,11 +98,12 @@
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
 		<Property Name="TargetOSID" Type="Str">VxWorks-PPC603</Property>
+		<Item Name="FPGA.lvlib" Type="Library" URL="../FPGA.lvlib"/>
 		<Item Name="PWM.lvlib" Type="Library" URL="../PWM.lvlib"/>
 		<Item Name="Servo.lvlib" Type="Library" URL="../Servo.lvlib"/>
 		<Item Name="Motor.lvlib" Type="Library" URL="../Motor.lvlib"/>
 		<Item Name="Drive.lvlib" Type="Library" URL="../Drive.lvlib"/>
-		<Item Name="FPGA.lvlib" Type="Library" URL="../FPGA.lvlib"/>
+		<Item Name="Serial.lvlib" Type="Library" URL="../Serial.lvlib"/>
 		<Item Name="Utility.lvlib" Type="Library" URL="../Utility.lvlib"/>
 		<Item Name="RobotSettings.ini" Type="Document" URL="../RobotSettings.ini"/>
 		<Item Name="PositionControlTest.vi" Type="VI" URL="../PositionControlTest.vi"/>
@@ -547,7 +548,7 @@
 				<Item Name="Build Specifications" Type="Build"/>
 			</Item>
 		</Item>
-		<Item Name="Serial.lvlib" Type="Library" URL="../Serial.lvlib"/>
+		<Item Name="SerialTest.vi" Type="VI" URL="../SerialTest.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
