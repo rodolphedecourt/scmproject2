@@ -10,4 +10,5 @@
 	<Item Name="Camera_AcquireSingleImage.vi" Type="VI" URL="../Camera/Camera_AcquireSingleImage.vi"/>
 	<Item Name="Camera_AcquireMultipleImages.vi" Type="VI" URL="../Camera/Camera_AcquireMultipleImages.vi"/>
 	<Item Name="Lens Distortion.lvlib" Type="Library" URL="../Lens Distortion.lvlib"/>
+	<Item Name="Camera_AcquireContinuousImage.vi" Type="VI" URL="../Camera/Camera_AcquireContinuousImage.vi"/>
 </Library>
