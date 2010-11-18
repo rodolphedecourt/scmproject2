@@ -4,4 +4,6 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Objects bottom cords.vi" Type="VI" URL="../ImageAnalysis/Objects bottom cords.vi"/>
 	<Item Name="Helper Objects bottom cords.vi" Type="VI" URL="../ImageAnalysis/Helper Objects bottom cords.vi"/>
+	<Item Name="Image2ObjectsDistances.vi" Type="VI" URL="../ImageAnalysis/Image2ObjectsDistances.vi"/>
+	<Item Name="Image2WallDistances.vi" Type="VI" URL="../ImageAnalysis/Image2WallDistances.vi"/>
 </Library>
