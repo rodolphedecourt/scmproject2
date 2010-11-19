@@ -62,10 +62,10 @@
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
 		<Property Name="TargetOSID" Type="Str">VxWorks-PPC603</Property>
+		<Item Name="ImageAnalysis.lvlib" Type="Library" URL="../ImageAnalysis.lvlib"/>
+		<Item Name="ImageProcessing.lvlib" Type="Library" URL="../ImageProcessing.lvlib"/>
 		<Item Name="Camera.lvlib" Type="Library" URL="../Camera.lvlib"/>
 		<Item Name="test.vi" Type="VI" URL="../test.vi"/>
-		<Item Name="ImageProcessing.lvlib" Type="Library" URL="../ImageProcessing.lvlib"/>
-		<Item Name="ImageAnalysis.lvlib" Type="Library" URL="../ImageAnalysis.lvlib"/>
 		<Item Name="AcquireImage test.vi" Type="VI" URL="../AcquireImage test.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
