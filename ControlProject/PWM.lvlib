@@ -12,4 +12,5 @@
 	<Item Name="PWM_Name.ctl" Type="VI" URL="../PWM/PWM_Name.ctl"/>
 	<Item Name="PWM_Default_Values.vi" Type="VI" URL="../PWM/PWM_Default_Values.vi"/>
 	<Item Name="PWM_Set_Enabled.vi" Type="VI" URL="../PWM/PWM_Set_Enabled.vi"/>
+	<Item Name="PWM_Heartbeat.vi" Type="VI" URL="../PWM/PWM_Heartbeat.vi"/>
 </Library>
