@@ -552,6 +552,7 @@
 		<Item Name="SerialTest.vi" Type="VI" URL="../SerialTest.vi"/>
 		<Item Name="CAN.lvlib" Type="Library" URL="../CAN.lvlib"/>
 		<Item Name="CANTest.vi" Type="VI" URL="../CAN/CANTest.vi"/>
+		<Item Name="CANTest2.vi" Type="VI" URL="../CANTest2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
