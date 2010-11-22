@@ -12,4 +12,15 @@
 	<Item Name="Serial_Close.vi" Type="VI" URL="../Serial/Serial_Close.vi"/>
 	<Item Name="Serial_Send.vi" Type="VI" URL="../Serial/Serial_Send.vi"/>
 	<Item Name="Serial_Receive.vi" Type="VI" URL="../Serial/Serial_Receive.vi"/>
+	<Item Name="VISA Ref" Type="Variable">
+		<Property Name="Description:Description" Type="Str">Contains VISA device reference (Serial port)</Property>
+		<Property Name="featurePacks" Type="Str">Description,Global</Property>
+		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="path" Type="Str"></Property>
+		<Property Name="type" Type="Str">Global</Property>
+		<Property Name="typeDefPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!!E!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
 </Library>
