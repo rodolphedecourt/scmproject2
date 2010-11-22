@@ -7,4 +7,8 @@
 	<Item Name="Image2ObjectsDistances.vi" Type="VI" URL="../ImageAnalysis/Image2ObjectsDistances.vi"/>
 	<Item Name="Image2WallDistances.vi" Type="VI" URL="../ImageAnalysis/Image2WallDistances.vi"/>
 	<Item Name="calcDist.vi" Type="VI" URL="../ImageAnalysis/calcDist.vi"/>
+	<Item Name="calcHorizontalRadius.vi" Type="VI" URL="../ImageAnalysis/calcHorizontalRadius.vi"/>
+	<Item Name="detDirWall.vi" Type="VI" URL="../ImageAnalysis/detDirWall.vi"/>
+	<Item Name="CalcDist2Circle.vi" Type="VI" URL="../ImageAnalysis/CalcDist2Circle.vi"/>
+	<Item Name="CalcAngleCircle.vi" Type="VI" URL="../ImageAnalysis/CalcAngleCircle.vi"/>
 </Library>
