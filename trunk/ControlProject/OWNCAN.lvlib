@@ -25,4 +25,5 @@
 		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!!E!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="CAN_Heartbeat_switch.vi" Type="VI" URL="../OWNCAN/CAN_Heartbeat_switch.vi"/>
+	<Item Name="CAN_Close.vi" Type="VI" URL="../OWNCAN/CAN_Close.vi"/>
 </Library>
