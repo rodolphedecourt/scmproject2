@@ -11,7 +11,6 @@
 	<Property Name="varPersistentID:{7B0896A1-016A-4E21-ABDE-AB32662839EB}" Type="Ref">/My Computer/Dependencies/Servo.lvlib/Servo_Config</Property>
 	<Property Name="varPersistentID:{992DECA4-7D1C-445A-B9F7-9CAF33BFEF20}" Type="Ref">/My Computer/Dependencies/Drive.lvlib/Drive_AbortPositionControl</Property>
 	<Property Name="varPersistentID:{D8373869-42E9-4EAE-B0AB-FA3163D986EE}" Type="Ref">/My Computer/Dependencies/FPGA.lvlib/FPGA_Ref</Property>
-	<Property Name="varPersistentID:{D8375C88-7834-42AF-9616-41E624C38E3D}" Type="Ref">/RT CompactRIO Target/OWNCAN.lvlib/CAN_PID_parameter</Property>
 	<Property Name="varPersistentID:{F38CC261-2707-4686-A1DF-11687BE95A1B}" Type="Ref">/RT CompactRIO Target/Drive.lvlib/Drive_RobotState</Property>
 	<Property Name="varPersistentID:{F91267B5-EAF7-4D8D-8185-04A36D3D5CE8}" Type="Ref">/My Computer/Dependencies/Drive.lvlib/Drive_RobotState</Property>
 	<Item Name="My Computer" Type="My Computer">
