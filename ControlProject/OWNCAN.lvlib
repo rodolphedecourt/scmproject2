@@ -21,4 +21,5 @@
 	<Item Name="Util_Convert_from_ms.vi" Type="VI" URL="../OWNCAN/Util_Convert_from_ms.vi"/>
 	<Item Name="CAN_setOutput.vi" Type="VI" URL="../OWNCAN/CAN_setOutput.vi"/>
 	<Item Name="Util_Convert_from_m.vi" Type="VI" URL="../OWNCAN/Util_Convert_from_m.vi"/>
+	<Item Name="CAN_PID_Constants.vi" Type="VI" URL="../OWNCAN/CAN_PID_Constants.vi"/>
 </Library>
