@@ -7,5 +7,18 @@
 
 </Property>
 	<Item Name="CAN_init.vi" Type="VI" URL="../OWNCAN/CAN_init.vi"/>
-	<Item Name="CAN_setPos.vi" Type="VI" URL="../OWNCAN/CAN_setPos.vi"/>
+	<Item Name="CAN_controlMode.vi" Type="VI" URL="../OWNCAN/CAN_controlMode.vi"/>
+	<Item Name="CAN_PID_parameter" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Global</Property>
+		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="path" Type="Str"></Property>
+		<Property Name="type" Type="Str">Global</Property>
+		<Property Name="typeDefPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#BH1!!!!E!A!!!!!!'!!&gt;!#A!"5!!(1!I!!5E!"U!+!!&amp;%!"J!5!!$!!!!!1!#$&amp;"*2#"1&lt;X.J&gt;'FP&lt;A!!(%"1!!-!!!!"!!)/5%F%)&amp;"P=WFU;7^O)$)!!"*!5!!#!!-!"!&gt;$&lt;(6T&gt;'6S!!%!"1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Util_Convert_from_ms.vi" Type="VI" URL="../OWNCAN/Util_Convert_from_ms.vi"/>
+	<Item Name="CAN_setOutput.vi" Type="VI" URL="../OWNCAN/CAN_setOutput.vi"/>
+	<Item Name="Util_Convert_from_m.vi" Type="VI" URL="../OWNCAN/Util_Convert_from_m.vi"/>
 </Library>
