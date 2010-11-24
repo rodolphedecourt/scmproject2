@@ -14,4 +14,15 @@
 	<Item Name="CAN_PID_Constants.vi" Type="VI" URL="../OWNCAN/CAN_PID_Constants.vi"/>
 	<Item Name="CAN Jaguars Ref.ctl" Type="VI" URL="../OWNCAN/CAN Jaguars Ref.ctl"/>
 	<Item Name="CAN_Heartbeat.vi" Type="VI" URL="../OWNCAN/CAN_Heartbeat.vi"/>
+	<Item Name="CAN_Hearbeat_boolVar" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Global</Property>
+		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="path" Type="Str"></Property>
+		<Property Name="type" Type="Str">Global</Property>
+		<Property Name="typeDefPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!!E!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="CAN_Heartbeat_switch.vi" Type="VI" URL="../OWNCAN/CAN_Heartbeat_switch.vi"/>
 </Library>
