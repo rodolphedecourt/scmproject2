@@ -4,6 +4,7 @@
 	<Property Name="varPersistentID:{211B47DE-6E85-45E5-87D6-BE42AA46BADD}" Type="Ref">/RT CompactRIO Target/FPGA.lvlib/FPGA_Ref</Property>
 	<Property Name="varPersistentID:{269D229A-A78A-438B-9499-F4805C7733B2}" Type="Ref">/RT CompactRIO Target/Servo.lvlib/Servo_Config</Property>
 	<Property Name="varPersistentID:{2836F5D2-69E2-4C7C-913E-57152710D7E0}" Type="Ref">/My Computer/Dependencies/Utility.lvlib/Settings_Variable</Property>
+	<Property Name="varPersistentID:{34A4FC10-65AE-4A09-9BE9-ABD466CD5986}" Type="Ref">/RT CompactRIO Target/OWNCAN.lvlib/CAN_Hearbeat_boolVar</Property>
 	<Property Name="varPersistentID:{3D498142-3FB0-4497-8C09-75A0010EAD6C}" Type="Ref">/RT CompactRIO Target/Drive.lvlib/Drive_AbortPositionControl</Property>
 	<Property Name="varPersistentID:{3F00E2FC-1933-4645-BC81-EBE99E223F16}" Type="Ref">/RT CompactRIO Target/Serial.lvlib/VISA Ref</Property>
 	<Property Name="varPersistentID:{5FFB20CE-4D78-4FBD-9FD6-3A897E152826}" Type="Ref">/RT CompactRIO Target/Utility.lvlib/Settings_Variable</Property>
@@ -554,6 +555,7 @@
 		<Item Name="PositionControlTest.vi" Type="VI" URL="../PositionControlTest.vi"/>
 		<Item Name="SerialTest.vi" Type="VI" URL="../SerialTest.vi"/>
 		<Item Name="RobotSettings.ini" Type="Document" URL="../RobotSettings.ini"/>
+		<Item Name="PositionControlCANTest.vi" Type="VI" URL="../PositionControlCANTest.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
