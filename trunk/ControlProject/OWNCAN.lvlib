@@ -13,4 +13,5 @@
 	<Item Name="Util_Convert_from_m.vi" Type="VI" URL="../OWNCAN/Util_Convert_from_m.vi"/>
 	<Item Name="CAN_PID_Constants.vi" Type="VI" URL="../OWNCAN/CAN_PID_Constants.vi"/>
 	<Item Name="CAN Jaguars Ref.ctl" Type="VI" URL="../OWNCAN/CAN Jaguars Ref.ctl"/>
+	<Item Name="CAN_Heartbeat.vi" Type="VI" URL="../OWNCAN/CAN_Heartbeat.vi"/>
 </Library>
