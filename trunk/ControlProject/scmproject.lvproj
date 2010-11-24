@@ -99,16 +99,6 @@
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
 		<Property Name="TargetOSID" Type="Str">VxWorks-PPC603</Property>
-		<Item Name="FPGA.lvlib" Type="Library" URL="../FPGA.lvlib"/>
-		<Item Name="PWM.lvlib" Type="Library" URL="../PWM.lvlib"/>
-		<Item Name="Servo.lvlib" Type="Library" URL="../Servo.lvlib"/>
-		<Item Name="Motor.lvlib" Type="Library" URL="../Motor.lvlib"/>
-		<Item Name="Drive.lvlib" Type="Library" URL="../Drive.lvlib"/>
-		<Item Name="OWNCAN.lvlib" Type="Library" URL="../OWNCAN.lvlib"/>
-		<Item Name="Serial.lvlib" Type="Library" URL="../Serial.lvlib"/>
-		<Item Name="Utility.lvlib" Type="Library" URL="../Utility.lvlib"/>
-		<Item Name="RobotSettings.ini" Type="Document" URL="../RobotSettings.ini"/>
-		<Item Name="PositionControlTest.vi" Type="VI" URL="../PositionControlTest.vi"/>
 		<Item Name="Chassis" Type="cRIO Chassis">
 			<Property Name="crio.ProgrammingMode" Type="Str">fpga</Property>
 			<Property Name="crio.ResourceID" Type="Str">RIO0</Property>
@@ -550,10 +540,20 @@
 				<Item Name="Build Specifications" Type="Build"/>
 			</Item>
 		</Item>
-		<Item Name="SerialTest.vi" Type="VI" URL="../SerialTest.vi"/>
 		<Item Name="CAN.lvlib" Type="Library" URL="../CAN.lvlib"/>
+		<Item Name="Drive.lvlib" Type="Library" URL="../Drive.lvlib"/>
+		<Item Name="FPGA.lvlib" Type="Library" URL="../FPGA.lvlib"/>
+		<Item Name="Motor.lvlib" Type="Library" URL="../Motor.lvlib"/>
+		<Item Name="OWNCAN.lvlib" Type="Library" URL="../OWNCAN.lvlib"/>
+		<Item Name="PWM.lvlib" Type="Library" URL="../PWM.lvlib"/>
+		<Item Name="Serial.lvlib" Type="Library" URL="../Serial.lvlib"/>
+		<Item Name="Servo.lvlib" Type="Library" URL="../Servo.lvlib"/>
+		<Item Name="Utility.lvlib" Type="Library" URL="../Utility.lvlib"/>
 		<Item Name="CANTest.vi" Type="VI" URL="../CAN/CANTest.vi"/>
 		<Item Name="CANTest2.vi" Type="VI" URL="../CANTest2.vi"/>
+		<Item Name="PositionControlTest.vi" Type="VI" URL="../PositionControlTest.vi"/>
+		<Item Name="SerialTest.vi" Type="VI" URL="../SerialTest.vi"/>
+		<Item Name="RobotSettings.ini" Type="Document" URL="../RobotSettings.ini"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
@@ -582,6 +582,10 @@
 				<Item Name="ERRGetRefNum.vi" Type="VI" URL="/&lt;vilib&gt;/Robotics Library/WPI/Utilities/ERRGetRefNum.vi"/>
 				<Item Name="subElapsedTime.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/subElapsedTime.vi"/>
 				<Item Name="FormatTime String.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/FormatTime String.vi"/>
+				<Item Name="NI_FPGA_Interface.lvlib" Type="Library" URL="/&lt;vilib&gt;/Robotics Library/NIFPGAInterface/NI_FPGA_Interface.lvlib"/>
+				<Item Name="StatusErrorCache.ctl" Type="VI" URL="/&lt;vilib&gt;/Robotics Library/WPI/DriverStation/StatusErrorCache.ctl"/>
+				<Item Name="DriverStation.lvlib" Type="Library" URL="/&lt;vilib&gt;/Robotics Library/WPI/DriverStation/DriverStation.lvlib"/>
+				<Item Name="FRC Build Error.vi" Type="VI" URL="/&lt;vilib&gt;/Robotics Library/WPI/Utilities/FRC Build Error.vi"/>
 			</Item>
 			<Item Name="NiRioSrv.dll" Type="Document" URL="NiRioSrv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
