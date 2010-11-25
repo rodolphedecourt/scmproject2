@@ -4,4 +4,5 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Emphasize Colo2r.vi" Type="VI" URL="../ImageProcessing/Emphasize Colo2r.vi"/>
 	<Item Name="Threshold Color.vi" Type="VI" URL="../ImageProcessing/Threshold Color.vi"/>
+	<Item Name="Threshold Color2.vi" Type="VI" URL="../ImageProcessing/Threshold Color2.vi"/>
 </Library>
