@@ -2,7 +2,7 @@
 <Project Type="Project" LVVersion="9008000">
 	<Property Name="varPersistentID:{211B47DE-6E85-45E5-87D6-BE42AA46BADD}" Type="Ref">/RT CompactRIO Target/FPGA.lvlib/FPGA_Ref</Property>
 	<Property Name="varPersistentID:{269D229A-A78A-438B-9499-F4805C7733B2}" Type="Ref">/RT CompactRIO Target/Servo.lvlib/Servo_Config</Property>
-	<Property Name="varPersistentID:{34A4FC10-65AE-4A09-9BE9-ABD466CD5986}" Type="Ref">/RT CompactRIO Target/OWNCAN.lvlib/CAN_Hearbeat_boolVar</Property>
+	<Property Name="varPersistentID:{34A4FC10-65AE-4A09-9BE9-ABD466CD5986}" Type="Ref">/RT CompactRIO Target/OWNCAN.lvlib/CAN_Hearbeat_enabled</Property>
 	<Property Name="varPersistentID:{3D498142-3FB0-4497-8C09-75A0010EAD6C}" Type="Ref">/RT CompactRIO Target/Drive.lvlib/Drive_AbortPositionControl</Property>
 	<Property Name="varPersistentID:{3F00E2FC-1933-4645-BC81-EBE99E223F16}" Type="Ref">/RT CompactRIO Target/Serial.lvlib/VISA Ref</Property>
 	<Property Name="varPersistentID:{5FFB20CE-4D78-4FBD-9FD6-3A897E152826}" Type="Ref">/RT CompactRIO Target/Utility.lvlib/Settings_Variable</Property>
@@ -519,9 +519,9 @@
 		<Item Name="PWM.lvlib" Type="Library" URL="../PWM.lvlib"/>
 		<Item Name="Serial.lvlib" Type="Library" URL="../Serial.lvlib"/>
 		<Item Name="Servo.lvlib" Type="Library" URL="../Servo.lvlib"/>
+		<Item Name="Test.lvlib" Type="Library" URL="../Test.lvlib"/>
 		<Item Name="Utility.lvlib" Type="Library" URL="../Utility.lvlib"/>
 		<Item Name="RobotSettings.ini" Type="Document" URL="../RobotSettings.ini"/>
-		<Item Name="Test.lvlib" Type="Library" URL="../Test.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
@@ -559,12 +559,7 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="scmproject.lvproj_FPGA Target_RobotFPGA.vi.lvbitx" Type="Document" URL="../FPGA Bitfiles/scmproject.lvproj_FPGA Target_RobotFPGA.vi.lvbitx"/>
-			<Item Name="niLvFpgaWhatHappensToTopLevelVI.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaWhatHappensToTopLevelVI.ctl"/>
-			<Item Name="niFpgaNodeNameForErrorReporting.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/common/niFpgaNodeNameForErrorReporting.ctl"/>
-			<Item Name="niLvFpgaFormatErrorSource.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaFormatErrorSource.vi"/>
-			<Item Name="niLvFpgaAdjustHostInterfaceError.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaAdjustHostInterfaceError.vi"/>
-			<Item Name="_nirio_device_handleType.ctl" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Targets/FPGA/Rio/nirio_driverPrimitives.llb/_nirio_device_handleType.ctl"/>
-			<Item Name="nirio_WriteBig.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Targets/FPGA/Rio/nirio_HostInterface/nirio_WriteBig.vi"/>
+			<Item Name="XDNodeRunTimeDep.lvlib" Type="Library" URL="/&lt;vilib&gt;/Platform/TimedLoop/XDataNode/XDNodeRunTimeDep.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
