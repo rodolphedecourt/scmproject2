@@ -36,4 +36,5 @@
 		<Property Name="typeDefPath" Type="Str"></Property>
 		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&lt;FQ!!!!E!A!!!!!!)!!&gt;!#A!"7!!(1!I!!6E!#U!+!!6"&lt;G&gt;M:1!71&amp;!!!Q!!!!%!!AB1&lt;X.J&gt;'FP&lt;A!!#U!+!!2-:7:U!!!,1!I!"6*J:WBU!""!5!!#!!1!"164='6F:!!+!&amp;!!!A!$!!9!!1!(!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
+	<Item Name="Drive_ControlMode.ctl" Type="VI" URL="../Drive/Drive_ControlMode.ctl"/>
 </Library>
