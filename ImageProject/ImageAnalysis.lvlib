@@ -11,4 +11,6 @@
 	<Item Name="detDirWall.vi" Type="VI" URL="../ImageAnalysis/detDirWall.vi"/>
 	<Item Name="CalcDist2Circle.vi" Type="VI" URL="../ImageAnalysis/CalcDist2Circle.vi"/>
 	<Item Name="CalcAngleCircle.vi" Type="VI" URL="../ImageAnalysis/CalcAngleCircle.vi"/>
+	<Item Name="Image2ObjectsDistances2.vi" Type="VI" URL="../ImageAnalysis/Image2ObjectsDistances2.vi"/>
+	<Item Name="Image2WallDistances2.vi" Type="VI" URL="../ImageAnalysis/Image2WallDistances2.vi"/>
 </Library>
