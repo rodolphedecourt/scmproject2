@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="9008000">
-	<Property Name="NI.Lib.Description" Type="Str">This library contains functions for communication with FPGA code, such as open, close and get FPGA reference</Property>
+	<Property Name="NI.Lib.Description" Type="Str">This library contains functions for communication with FPGA code, such as open, close and get FPGA reference.</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*'!!!*Q(C=\&gt;8"42N2%-&lt;RTSC(((&amp;/0C+X-#WY"&lt;=Q$9$EKV&gt;=X%%U5CLQG:N&lt;G"*Q#WZB_&lt;`HM3&amp;+C*%)3A\M-G&lt;Z&gt;N_]HX?@&amp;KFP8[5P'C^NMT^O&lt;TX@'BW&lt;^=`TM00Z9YWT]??WT_.0)^PB/*O.PRV`;D+/LZU`3HY:`^\P^`LZ#ZM_N]`NXW\LCYPUQ^@M2/V&amp;2#56F&amp;/G.N79Z%G?Z%G?Z%E?Z%%?Z%%?Z%(OZ%\OZ%\OZ%ZOZ%:OZ%:OZ%&lt;?&gt;X+2CVTEE*,*EYG3JEG$Z')I3DY34_**0)G(0Z6Y%E`C34S*BUO5?"*0YEE]C9&gt;B3DS**`%EHM2$KS\*PJ0D34SU6_!*0)%H]!1?JF4A#1$":%(DI!E-"3?$A]!4?!)0BQI]A3@Q"*\!QWE&amp;HM!4?!*0Y'&amp;)PSP2.7UHRU-&lt;/2\(YXA=D_/BN2S0YX%]DM@R-*U=D_.R%-[%4H-)=A9Z&amp;TB`/"\(QS]Z(M@D?"S0Y_&amp;5@U,?\UT4N*U=D_%R0)&lt;(]"A?7MDQ'"\$9XA-$WVF?!S0Y4%]BI?J:(A-D_%R)-;E4#_DG4(1O-A)$!]`@&lt;69@UL2*&gt;:XK2;P;F'K&amp;JNK%;E7B_KBKR[G[C'J&lt;L\KJKJOFOIGK,[=#KX#K#:2$7Y8[M$HHNJ27WJ$L;AFN;$GV,1.`=M8(AY(\@&gt;\\89\&lt;&lt;&gt;&lt;&lt;49&lt;L69L,:&gt;,,29,T?&gt;T4;@4]WPABPX]1DC_F^9=NRI?&lt;S@$N`P*]/.B'+[`5X@$[6SL$`J@_B_]'X7FFXWZ2U`%SGY#!!!!!!</Property>
 	<Property Name="NI.Lib.LocalName" Type="Str">FPGA</Property>

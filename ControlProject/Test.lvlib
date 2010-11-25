@@ -1,5 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="9008000">
+	<Property Name="NI.Lib.Description" Type="Str">Contains test VIs. Made for convenience.</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)]!!!*Q(C=\&gt;7^D&gt;N!%-8R2]/"5\E#1SV-#QI='-\5Q!84!F0C)L5Q,;C$AVJY,3BR!7S"`H/^%IT\M!T9"TMY5CN2&lt;\GT0Z%,3GL&lt;"_G^FFP&lt;QS_XX_Z@+\6KVY.(YZ@W?FAO8Z\L8S\*#`W0DZ[-PUT^40]@`LY8_W^M?NP?NH_\44=8[;OPW5(LAYBG7N'3&amp;FKH7ERO=J/&lt;X/1G,`)C,`)C,`)C4`)E4`)E4`)E$`)A$`)A$`)A&lt;TOZS%5O=EBG=D/2+7I+G*/BS,Q:D`%9D`(Q6=:D0-:D0-&lt;$+4)?YT%?YT%?BMFYD-&gt;YD-&gt;Y+.5E&lt;DMZ(O/BP!J0Y3E]B;@Q-+5+4Q%I*CM+&amp;U6AK/AM$AJ0Y3E](+LQ&amp;*\#5XA+$^UK0)7H]"3?QM/1&gt;F7K;&gt;;&gt;(!^FF(A34_**0)G(UEI]C3@R**\%QX2+0)EH1314*M5B+"G5H*"]34S*BQ]FHM34?"*0YK'LX;&amp;M6W&lt;6L$MZHM!4?!*0Y!E]F&amp;$A#4S"*`!%(MIK]!3?Q".Y!A^4+@!%HM!41)**G6Z"M7"A=&amp;)1""Z?&lt;&lt;6%OUP6*.&amp;WK3^?^57JPND5&amp;Z([YF#`[?IX5`UGK6^]^9OK@L(5,Y,[DV.(KW05*V%@P*[IG@=T\51\UA[UE&lt;;H\7B&lt;WG9&gt;_J&gt;0H/&gt;:Z`.:J^.*R_.2B]."YTBKP^^LN^NJO^VKM^F=(Q/@W+]0B"`0J9HDVO:RG$\@$^/8/TY`$N08&lt;]/VD`:+`[8`Q&lt;.2\`2T8;\2&gt;_F&gt;$+9!!!!!</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>

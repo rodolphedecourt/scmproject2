@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="9008000">
-	<Property Name="NI.Lib.Description" Type="Str">This library contains functions for motor control</Property>
+	<Property Name="NI.Lib.Description" Type="Str">This library contains functions for motor control using PWM reference signal.</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*"!!!*Q(C=\&gt;8"&lt;?*!&amp;-&lt;R&lt;[.9SJ5/6L4Q7K!&amp;7HAN=-X2CD;(Z,4PHB-NU-*LA5-;I!8H0]-,]AI*6NK.EE.M(JBP0$-`\*'2_H9HX7K[NAU8N\^KLZJ[T1`?W[@_'O;PK&lt;I&gt;_U\$7@O]`T#=N``2`T4`+:SX`_PPO^B_:&gt;0X^LV^\H:`&gt;:&amp;__*L^I@9AIJ)+SCF4GWJ+]C20]C20]C10]C!0]C!0]C"X=C&gt;X=C&gt;X=C=X=C-X=C-X=C0P/\H)23ZS3-HES54*I-E!S=F1F,QFHM34?")08Z6Y%E`C34S*BV/5?"*0YEE]C9&gt;O3DS**`%EHM4$5&amp;W3@3@(EXA98I%H]!3?Q".YG&amp;+"*Q!%EQ5$"Y0!5.!9(!3?Q".Y/&amp;4A#4S"*`!%(JI6?!*0Y!E]A9=O`;J%V\3&gt;(!`$S0%Y(M@D?"Q01]PR/"\(YXA=$^0*]4A?"_&amp;-[!Q/15YHZQ4HC_.R0(T)]4A?R_.Y(!^.`1ZZPT*.UX:S0)&lt;(]"A?QW.Y'%+'R`!9(M.D?"B7BM@Q'"\$9XC93I&lt;(]"A?!W*-SP1S"D-['C=:A?(BV6?,^&lt;M587*^FWLRKB;F;L'J&amp;J&amp;K=;BOOOJGKG[3[O+L,KLK9KEOAOL(K&gt;!KD'I36?&gt;WIA[]\[E&gt;N;6';E/NK27VJ";N[X]_]8!Y;,`@;\@&lt;;&lt;P&gt;;BR(&lt;49&lt;L&gt;&gt;LL69L,:&gt;,,2;,UW0A*`PJA8"],NVTX'K-@(V]?8Z[?(F_(@E=@`^[?G^L^5(`J6`AW;A&lt;T=@F'LU"S5^IBA!!!!!</Property>
 	<Property Name="NI.Lib.LocalName" Type="Str">Motor</Property>

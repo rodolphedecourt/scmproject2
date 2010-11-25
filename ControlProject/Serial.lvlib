@@ -15,7 +15,7 @@
 	<Item Name="Serial_Send.vi" Type="VI" URL="../Serial/Serial_Send.vi"/>
 	<Item Name="Serial_Receive.vi" Type="VI" URL="../Serial/Serial_Receive.vi"/>
 	<Item Name="VISA Ref" Type="Variable">
-		<Property Name="Description:Description" Type="Str">Contains Serial port reference</Property>
+		<Property Name="Description:Description" Type="Str">Contains Serial port reference and Semaphore reference for sending messages over serial port. Do not use directly in the program. Use Serial_Get_Ref VI to obtain the value.</Property>
 		<Property Name="featurePacks" Type="Str">Description,Global</Property>
 		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
