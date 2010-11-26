@@ -1,10 +1,12 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="9008000">
+	<Property Name="varPersistentID:{1F23295B-AFB7-4EDA-BEAD-8CFB7648D412}" Type="Ref">/RT CompactRIO Target/Main.lvlib/MainVariables.lvlib/CollisionAvoidanceEnabled</Property>
 	<Property Name="varPersistentID:{211B47DE-6E85-45E5-87D6-BE42AA46BADD}" Type="Ref">/RT CompactRIO Target/FPGA.lvlib/FPGA_Ref</Property>
 	<Property Name="varPersistentID:{269D229A-A78A-438B-9499-F4805C7733B2}" Type="Ref">/RT CompactRIO Target/Servo.lvlib/Servo_Config</Property>
 	<Property Name="varPersistentID:{34A4FC10-65AE-4A09-9BE9-ABD466CD5986}" Type="Ref">/RT CompactRIO Target/OWNCAN.lvlib/CAN_Hearbeat_enabled</Property>
 	<Property Name="varPersistentID:{3D498142-3FB0-4497-8C09-75A0010EAD6C}" Type="Ref">/RT CompactRIO Target/Drive.lvlib/Drive_AbortPositionControl</Property>
 	<Property Name="varPersistentID:{3F00E2FC-1933-4645-BC81-EBE99E223F16}" Type="Ref">/RT CompactRIO Target/Serial.lvlib/VISA Ref</Property>
+	<Property Name="varPersistentID:{406B2C27-B8CF-4B44-8A7F-7C90041EC50A}" Type="Ref">/RT CompactRIO Target/OWNCAN.lvlib/CAN_Jaguars_ref</Property>
 	<Property Name="varPersistentID:{5FFB20CE-4D78-4FBD-9FD6-3A897E152826}" Type="Ref">/RT CompactRIO Target/Utility.lvlib/Settings_Variable</Property>
 	<Property Name="varPersistentID:{719C38D4-E9B7-431D-8C76-CB8D86C9DAEE}" Type="Ref">/RT CompactRIO Target/Servo.lvlib/Servo_Angles</Property>
 	<Property Name="varPersistentID:{F38CC261-2707-4686-A1DF-11687BE95A1B}" Type="Ref">/RT CompactRIO Target/Drive.lvlib/Drive_RobotState</Property>
@@ -547,13 +549,8 @@
 				<Item Name="Obtain Semaphore Reference.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Obtain Semaphore Reference.vi"/>
 				<Item Name="Validate Semaphore Size.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Validate Semaphore Size.vi"/>
 				<Item Name="AddNamedSemaphorePrefix.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/AddNamedSemaphorePrefix.vi"/>
-				<Item Name="ERRGetRefNum.vi" Type="VI" URL="/&lt;vilib&gt;/Robotics Library/WPI/Utilities/ERRGetRefNum.vi"/>
 				<Item Name="subElapsedTime.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/subElapsedTime.vi"/>
 				<Item Name="FormatTime String.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/FormatTime String.vi"/>
-				<Item Name="NI_FPGA_Interface.lvlib" Type="Library" URL="/&lt;vilib&gt;/Robotics Library/NIFPGAInterface/NI_FPGA_Interface.lvlib"/>
-				<Item Name="StatusErrorCache.ctl" Type="VI" URL="/&lt;vilib&gt;/Robotics Library/WPI/DriverStation/StatusErrorCache.ctl"/>
-				<Item Name="DriverStation.lvlib" Type="Library" URL="/&lt;vilib&gt;/Robotics Library/WPI/DriverStation/DriverStation.lvlib"/>
-				<Item Name="FRC Build Error.vi" Type="VI" URL="/&lt;vilib&gt;/Robotics Library/WPI/Utilities/FRC Build Error.vi"/>
 			</Item>
 			<Item Name="NiRioSrv.dll" Type="Document" URL="NiRioSrv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
