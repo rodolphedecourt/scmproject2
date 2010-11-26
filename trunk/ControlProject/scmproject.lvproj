@@ -521,7 +521,6 @@
 		<Item Name="Servo.lvlib" Type="Library" URL="../Servo.lvlib"/>
 		<Item Name="Test.lvlib" Type="Library" URL="../Test.lvlib"/>
 		<Item Name="Utility.lvlib" Type="Library" URL="../Utility.lvlib"/>
-		<Item Name="RobotSettings.ini" Type="Document" URL="../RobotSettings.ini"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
@@ -550,10 +549,6 @@
 				<Item Name="ERRGetRefNum.vi" Type="VI" URL="/&lt;vilib&gt;/Robotics Library/WPI/Utilities/ERRGetRefNum.vi"/>
 				<Item Name="subElapsedTime.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/subElapsedTime.vi"/>
 				<Item Name="FormatTime String.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/FormatTime String.vi"/>
-				<Item Name="NI_FPGA_Interface.lvlib" Type="Library" URL="/&lt;vilib&gt;/Robotics Library/NIFPGAInterface/NI_FPGA_Interface.lvlib"/>
-				<Item Name="StatusErrorCache.ctl" Type="VI" URL="/&lt;vilib&gt;/Robotics Library/WPI/DriverStation/StatusErrorCache.ctl"/>
-				<Item Name="DriverStation.lvlib" Type="Library" URL="/&lt;vilib&gt;/Robotics Library/WPI/DriverStation/DriverStation.lvlib"/>
-				<Item Name="FRC Build Error.vi" Type="VI" URL="/&lt;vilib&gt;/Robotics Library/WPI/Utilities/FRC Build Error.vi"/>
 			</Item>
 			<Item Name="NiRioSrv.dll" Type="Document" URL="NiRioSrv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
