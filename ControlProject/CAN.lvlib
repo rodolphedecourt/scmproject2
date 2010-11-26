@@ -44,6 +44,7 @@ Taken from FRC CAN jaguar code.</Property>
 	<Item Name="CAN Jaguar Get PID.vi" Type="VI" URL="../CAN/CAN Jaguar Get PID.vi"/>
 	<Item Name="CAN Jaguar Get Position Reference.vi" Type="VI" URL="../CAN/CAN Jaguar Get Position Reference.vi"/>
 	<Item Name="CAN Jaguar Get Status.vi" Type="VI" URL="../CAN/CAN Jaguar Get Status.vi"/>
+	<Item Name="CAN Jaguar Heartbeat.vi" Type="VI" URL="../CAN/CAN Jaguar Heartbeat.vi"/>
 	<Item Name="CAN Jaguar Open.vi" Type="VI" URL="../CAN/CAN Jaguar Open.vi"/>
 	<Item Name="CAN Jaguar RefNum Registry Get.vi" Type="VI" URL="../CAN/CAN Jaguar RefNum Registry Get.vi"/>
 	<Item Name="CAN Jaguar RefNum Registry Set.vi" Type="VI" URL="../CAN/CAN Jaguar RefNum Registry Set.vi"/>
@@ -52,6 +53,5 @@ Taken from FRC CAN jaguar code.</Property>
 	<Item Name="CAN Jaguar Set Position Reference.vi" Type="VI" URL="../CAN/CAN Jaguar Set Position Reference.vi"/>
 	<Item Name="CAN Jaguar Set Speed Reference.vi" Type="VI" URL="../CAN/CAN Jaguar Set Speed Reference.vi"/>
 	<Item Name="CAN Jaguar Set Voltage Ramp Rate.vi" Type="VI" URL="../CAN/CAN Jaguar Set Voltage Ramp Rate.vi"/>
-	<Item Name="CAN Jaguar Heartbeat.vi" Type="VI" URL="../CAN/CAN Jaguar Heartbeat.vi"/>
 	<Item Name="CAN Jaguar Sync Update.vi" Type="VI" URL="../CAN/CAN Jaguar Sync Update.vi"/>
 </Library>
