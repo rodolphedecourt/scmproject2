@@ -9,6 +9,7 @@
 
 </Property>
 	<Item Name="CAN_Close.vi" Type="VI" URL="../OWNCAN/CAN_Close.vi"/>
+	<Item Name="CAN_getOutput.vi" Type="VI" URL="../OWNCAN/CAN_getOutput.vi"/>
 	<Item Name="CAN_Get_Ref.vi" Type="VI" URL="../OWNCAN/CAN_Get_Ref.vi"/>
 	<Item Name="CAN_Heartbeat.vi" Type="VI" URL="../OWNCAN/CAN_Heartbeat.vi"/>
 	<Item Name="CAN_Heartbeat_switch.vi" Type="VI" URL="../OWNCAN/CAN_Heartbeat_switch.vi"/>
@@ -16,8 +17,11 @@
 	<Item Name="CAN_PID_Constants.vi" Type="VI" URL="../OWNCAN/CAN_PID_Constants.vi"/>
 	<Item Name="CAN_SetControlMode.vi" Type="VI" URL="../OWNCAN/CAN_SetControlMode.vi"/>
 	<Item Name="CAN_setOutput.vi" Type="VI" URL="../OWNCAN/CAN_setOutput.vi"/>
-	<Item Name="Util_Convert_from_m.vi" Type="VI" URL="../OWNCAN/Util_Convert_from_m.vi"/>
-	<Item Name="Util_Convert_from_ms.vi" Type="VI" URL="../OWNCAN/Util_Convert_from_ms.vi"/>
+	<Item Name="CAN_Set_Ref.vi" Type="VI" URL="../OWNCAN/CAN_Set_Ref.vi"/>
+	<Item Name="Util_MetersToRounds.vi" Type="VI" URL="../OWNCAN/Util_MetersToRounds.vi"/>
+	<Item Name="Util_MPStoRPM.vi" Type="VI" URL="../OWNCAN/Util_MPStoRPM.vi"/>
+	<Item Name="Util_RoundsToMeters.vi" Type="VI" URL="../OWNCAN/Util_RoundsToMeters.vi"/>
+	<Item Name="Util_RPMtoMPS.vi" Type="VI" URL="../OWNCAN/Util_RPMtoMPS.vi"/>
 	<Item Name="CAN Jaguars Ref.ctl" Type="VI" URL="../OWNCAN/CAN Jaguars Ref.ctl"/>
 	<Item Name="CAN_Hearbeat_enabled" Type="Variable">
 		<Property Name="Description:Description" Type="Str">Contains the state of the heartbeat signal.</Property>
