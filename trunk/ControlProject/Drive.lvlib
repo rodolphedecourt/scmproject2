@@ -12,6 +12,7 @@
 	<Item Name="Drive_Arcade.vi" Type="VI" URL="../Drive/Drive_Arcade.vi"/>
 	<Item Name="Drive_CalculateMovement.vi" Type="VI" URL="../Drive/Drive_CalculateMovement.vi"/>
 	<Item Name="Drive_PositionControl.vi" Type="VI" URL="../Drive/Drive_PositionControl.vi"/>
+	<Item Name="Drive_SetMotorsPosition.vi" Type="VI" URL="../Drive/Drive_SetMotorsPosition.vi"/>
 	<Item Name="Drive_SetMotorsSpeed.vi" Type="VI" URL="../Drive/Drive_SetMotorsSpeed.vi"/>
 	<Item Name="Drive_StopDrive.vi" Type="VI" URL="../Drive/Drive_StopDrive.vi"/>
 	<Item Name="Drive_ControlMode.ctl" Type="VI" URL="../Drive/Drive_ControlMode.ctl"/>
@@ -27,6 +28,8 @@
 		<Property Name="typeDefPath" Type="Str"></Property>
 		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!!E!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 	</Item>
+	<Item Name="Drive_getAbortPositionControl.vi" Type="VI" URL="../Drive/Drive_getAbortPositionControl.vi"/>
+	<Item Name="Drive_setAbortPositionControl.vi" Type="VI" URL="../Drive/Drive_setAbortPositionControl.vi"/>
 	<Item Name="Drive_RobotState" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Global</Property>
 		<Property Name="Global:EnableTimestamp" Type="Str">True</Property>
@@ -37,4 +40,5 @@
 		<Property Name="typeDefPath" Type="Str"></Property>
 		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&lt;FQ!!!!E!A!!!!!!)!!&gt;!#A!"7!!(1!I!!6E!#U!+!!6"&lt;G&gt;M:1!71&amp;!!!Q!!!!%!!AB1&lt;X.J&gt;'FP&lt;A!!#U!+!!2-:7:U!!!,1!I!"6*J:WBU!""!5!!#!!1!"164='6F:!!+!&amp;!!!A!$!!9!!1!(!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
+	<Item Name="Drive_Point.ctl" Type="VI" URL="../Drive/Drive_Point.ctl"/>
 </Library>

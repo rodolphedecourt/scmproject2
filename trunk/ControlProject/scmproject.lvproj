@@ -9,6 +9,7 @@
 	<Property Name="varPersistentID:{406B2C27-B8CF-4B44-8A7F-7C90041EC50A}" Type="Ref">/RT CompactRIO Target/OWNCAN.lvlib/CAN_Jaguars_ref</Property>
 	<Property Name="varPersistentID:{5FFB20CE-4D78-4FBD-9FD6-3A897E152826}" Type="Ref">/RT CompactRIO Target/Utility.lvlib/Settings_Variable</Property>
 	<Property Name="varPersistentID:{719C38D4-E9B7-431D-8C76-CB8D86C9DAEE}" Type="Ref">/RT CompactRIO Target/Servo.lvlib/Servo_Angles</Property>
+	<Property Name="varPersistentID:{87AA9D88-44CA-409E-BA29-684B18951CCE}" Type="Ref">/RT CompactRIO Target/Main.lvlib/MainVariables.lvlib/AbortReachGoal</Property>
 	<Property Name="varPersistentID:{F38CC261-2707-4686-A1DF-11687BE95A1B}" Type="Ref">/RT CompactRIO Target/Drive.lvlib/Drive_RobotState</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
@@ -516,6 +517,7 @@
 		<Item Name="CAN.lvlib" Type="Library" URL="../CAN.lvlib"/>
 		<Item Name="Drive.lvlib" Type="Library" URL="../Drive.lvlib"/>
 		<Item Name="FPGA.lvlib" Type="Library" URL="../FPGA.lvlib"/>
+		<Item Name="Main.lvlib" Type="Library" URL="../Main.lvlib"/>
 		<Item Name="Motor.lvlib" Type="Library" URL="../Motor.lvlib"/>
 		<Item Name="OWNCAN.lvlib" Type="Library" URL="../OWNCAN.lvlib"/>
 		<Item Name="PWM.lvlib" Type="Library" URL="../PWM.lvlib"/>
@@ -523,7 +525,6 @@
 		<Item Name="Servo.lvlib" Type="Library" URL="../Servo.lvlib"/>
 		<Item Name="Test.lvlib" Type="Library" URL="../Test.lvlib"/>
 		<Item Name="Utility.lvlib" Type="Library" URL="../Utility.lvlib"/>
-		<Item Name="Main.lvlib" Type="Library" URL="../Main.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>

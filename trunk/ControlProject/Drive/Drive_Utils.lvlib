@@ -15,4 +15,6 @@
 	<Item Name="Drive_Utils_RelativeXYtoAbsolute.vi" Type="VI" URL="../Drive_Utils_RelativeXYtoAbsolute.vi"/>
 	<Item Name="Drive_Utils_UpdateState.vi" Type="VI" URL="../Drive_Utils_UpdateState.vi"/>
 	<Item Name="Drive_Utils_XYtoDistanceAngle.vi" Type="VI" URL="../Drive_Utils_XYtoDistanceAngle.vi"/>
+	<Item Name="Drive_Utils_getRobotState.vi" Type="VI" URL="../Drive_Utils_getRobotState.vi"/>
+	<Item Name="Drive_Utils_setRobotState.vi" Type="VI" URL="../Drive_Utils_setRobotState.vi"/>
 </Library>
