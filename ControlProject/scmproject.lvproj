@@ -5,17 +5,20 @@
 	<Property Name="varPersistentID:{1F23295B-AFB7-4EDA-BEAD-8CFB7648D412}" Type="Ref">/RT CompactRIO Target/Main.lvlib/MainVariables.lvlib/CollisionAvoidanceEnabled</Property>
 	<Property Name="varPersistentID:{211B47DE-6E85-45E5-87D6-BE42AA46BADD}" Type="Ref">/RT CompactRIO Target/FPGA.lvlib/FPGA_Ref</Property>
 	<Property Name="varPersistentID:{269D229A-A78A-438B-9499-F4805C7733B2}" Type="Ref">/RT CompactRIO Target/Servo.lvlib/Servo_Config</Property>
-	<Property Name="varPersistentID:{297398BE-B3F1-4671-8AE3-62D99BBD6DB3}" Type="Ref">/My Computer/Host.lvlib/NetworkVar.lvlib/Stop</Property>
 	<Property Name="varPersistentID:{34A4FC10-65AE-4A09-9BE9-ABD466CD5986}" Type="Ref">/RT CompactRIO Target/OWNCAN.lvlib/CAN_Hearbeat_enabled</Property>
 	<Property Name="varPersistentID:{3D498142-3FB0-4497-8C09-75A0010EAD6C}" Type="Ref">/RT CompactRIO Target/Drive.lvlib/Drive_AbortPositionControl</Property>
 	<Property Name="varPersistentID:{3F00E2FC-1933-4645-BC81-EBE99E223F16}" Type="Ref">/RT CompactRIO Target/Serial.lvlib/VISA Ref</Property>
 	<Property Name="varPersistentID:{406B2C27-B8CF-4B44-8A7F-7C90041EC50A}" Type="Ref">/RT CompactRIO Target/OWNCAN.lvlib/CAN_Jaguars_ref</Property>
 	<Property Name="varPersistentID:{5FFB20CE-4D78-4FBD-9FD6-3A897E152826}" Type="Ref">/RT CompactRIO Target/Utility.lvlib/Settings_Variable</Property>
+	<Property Name="varPersistentID:{6D7AA6B7-BB4E-40A2-8506-39E8912D0148}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/Stop</Property>
+	<Property Name="varPersistentID:{714B41FE-FA46-4F07-9D13-38DA9AB392F7}" Type="Ref">/My Computer/Dependencies/NetworkVar.lvlib/Stop</Property>
 	<Property Name="varPersistentID:{719C38D4-E9B7-431D-8C76-CB8D86C9DAEE}" Type="Ref">/RT CompactRIO Target/Servo.lvlib/Servo_Angles</Property>
 	<Property Name="varPersistentID:{87AA9D88-44CA-409E-BA29-684B18951CCE}" Type="Ref">/RT CompactRIO Target/Main.lvlib/MainVariables.lvlib/AbortReachGoal</Property>
-	<Property Name="varPersistentID:{8C036C04-B1BE-49DC-93C8-D3D945CBE719}" Type="Ref">/My Computer/Host.lvlib/NetworkVar.lvlib/RobotState</Property>
+	<Property Name="varPersistentID:{DE322218-0306-4E07-8AB2-FB37BFDD270E}" Type="Ref">/My Computer/Dependencies/NetworkVar.lvlib/RobotState</Property>
 	<Property Name="varPersistentID:{F38CC261-2707-4686-A1DF-11687BE95A1B}" Type="Ref">/RT CompactRIO Target/Drive.lvlib/Drive_RobotState</Property>
+	<Property Name="varPersistentID:{F766A3CC-2482-4B98-986E-9DA06858D04D}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/RobotState</Property>
 	<Item Name="My Computer" Type="My Computer">
+		<Property Name="alias.value" Type="Str">10.0.0.6</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -24,7 +27,7 @@
 		<Property Name="server.tcp.serviceName.default" Type="Str">My Computer/VI Server</Property>
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
-		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Property Name="specify.custom.address" Type="Bool">true</Property>
 		<Item Name="Host.lvlib" Type="Library" URL="../Host/Host.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -35,6 +38,7 @@
 				<Item Name="Move Pen.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Move Pen.vi"/>
 				<Item Name="subTimeDelay.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/TimeDelayBlock.llb/subTimeDelay.vi"/>
 			</Item>
+			<Item Name="NetworkVar.lvlib" Type="Library" URL="../NetworkVar.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
@@ -533,6 +537,7 @@
 		<Item Name="FPGA.lvlib" Type="Library" URL="../FPGA.lvlib"/>
 		<Item Name="Main.lvlib" Type="Library" URL="../Main.lvlib"/>
 		<Item Name="Motor.lvlib" Type="Library" URL="../Motor.lvlib"/>
+		<Item Name="NetworkVar.lvlib" Type="Library" URL="../NetworkVar.lvlib"/>
 		<Item Name="OWNCAN.lvlib" Type="Library" URL="../OWNCAN.lvlib"/>
 		<Item Name="PWM.lvlib" Type="Library" URL="../PWM.lvlib"/>
 		<Item Name="Serial.lvlib" Type="Library" URL="../Serial.lvlib"/>
