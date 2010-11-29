@@ -9,8 +9,9 @@
 	<Property Name="varPersistentID:{3D498142-3FB0-4497-8C09-75A0010EAD6C}" Type="Ref">/RT CompactRIO Target/Drive.lvlib/Drive_AbortPositionControl</Property>
 	<Property Name="varPersistentID:{3F00E2FC-1933-4645-BC81-EBE99E223F16}" Type="Ref">/RT CompactRIO Target/Serial.lvlib/VISA Ref</Property>
 	<Property Name="varPersistentID:{406B2C27-B8CF-4B44-8A7F-7C90041EC50A}" Type="Ref">/RT CompactRIO Target/OWNCAN.lvlib/CAN_Jaguars_ref</Property>
+	<Property Name="varPersistentID:{56FC716A-90A7-46C1-945F-6591CB17E585}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/Goal</Property>
 	<Property Name="varPersistentID:{5FFB20CE-4D78-4FBD-9FD6-3A897E152826}" Type="Ref">/RT CompactRIO Target/Utility.lvlib/Settings_Variable</Property>
-	<Property Name="varPersistentID:{6D7AA6B7-BB4E-40A2-8506-39E8912D0148}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/Stop_global</Property>
+	<Property Name="varPersistentID:{633825DB-51B1-4ECA-8854-5519E2BEEC34}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/global_Stop</Property>
 	<Property Name="varPersistentID:{719C38D4-E9B7-431D-8C76-CB8D86C9DAEE}" Type="Ref">/RT CompactRIO Target/Servo.lvlib/Servo_Angles</Property>
 	<Property Name="varPersistentID:{87AA9D88-44CA-409E-BA29-684B18951CCE}" Type="Ref">/RT CompactRIO Target/Main.lvlib/MainVariables.lvlib/AbortReachGoal</Property>
 	<Property Name="varPersistentID:{F38CC261-2707-4686-A1DF-11687BE95A1B}" Type="Ref">/RT CompactRIO Target/Drive.lvlib/Drive_RobotState</Property>
