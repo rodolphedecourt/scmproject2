@@ -10,11 +10,9 @@
 	<Property Name="varPersistentID:{3F00E2FC-1933-4645-BC81-EBE99E223F16}" Type="Ref">/RT CompactRIO Target/Serial.lvlib/VISA Ref</Property>
 	<Property Name="varPersistentID:{406B2C27-B8CF-4B44-8A7F-7C90041EC50A}" Type="Ref">/RT CompactRIO Target/OWNCAN.lvlib/CAN_Jaguars_ref</Property>
 	<Property Name="varPersistentID:{5FFB20CE-4D78-4FBD-9FD6-3A897E152826}" Type="Ref">/RT CompactRIO Target/Utility.lvlib/Settings_Variable</Property>
-	<Property Name="varPersistentID:{6D7AA6B7-BB4E-40A2-8506-39E8912D0148}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/Stop</Property>
-	<Property Name="varPersistentID:{714B41FE-FA46-4F07-9D13-38DA9AB392F7}" Type="Ref">/My Computer/Dependencies/NetworkVar.lvlib/Stop</Property>
+	<Property Name="varPersistentID:{6D7AA6B7-BB4E-40A2-8506-39E8912D0148}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/Stop_global</Property>
 	<Property Name="varPersistentID:{719C38D4-E9B7-431D-8C76-CB8D86C9DAEE}" Type="Ref">/RT CompactRIO Target/Servo.lvlib/Servo_Angles</Property>
 	<Property Name="varPersistentID:{87AA9D88-44CA-409E-BA29-684B18951CCE}" Type="Ref">/RT CompactRIO Target/Main.lvlib/MainVariables.lvlib/AbortReachGoal</Property>
-	<Property Name="varPersistentID:{DE322218-0306-4E07-8AB2-FB37BFDD270E}" Type="Ref">/My Computer/Dependencies/NetworkVar.lvlib/RobotState</Property>
 	<Property Name="varPersistentID:{F38CC261-2707-4686-A1DF-11687BE95A1B}" Type="Ref">/RT CompactRIO Target/Drive.lvlib/Drive_RobotState</Property>
 	<Property Name="varPersistentID:{F766A3CC-2482-4B98-986E-9DA06858D04D}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/RobotState</Property>
 	<Item Name="My Computer" Type="My Computer">
@@ -38,7 +36,7 @@
 				<Item Name="Move Pen.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Move Pen.vi"/>
 				<Item Name="subTimeDelay.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/TimeDelayBlock.llb/subTimeDelay.vi"/>
 			</Item>
-			<Item Name="NetworkVar.lvlib" Type="Library" URL="../NetworkVar.lvlib"/>
+			<Item Name="NetworkVarTarget.lvlib" Type="Library" URL="../NetworkVarTarget.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
@@ -549,6 +547,7 @@
 		<Item Name="Servo.lvlib" Type="Library" URL="../Servo.lvlib"/>
 		<Item Name="Test.lvlib" Type="Library" URL="../Test.lvlib"/>
 		<Item Name="Utility.lvlib" Type="Library" URL="../Utility.lvlib"/>
+		<Item Name="NetworkVarTarget.lvlib" Type="Library" URL="../NetworkVarTarget.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>

@@ -20,14 +20,13 @@
 		<Property Name="typeDefPath" Type="Str"></Property>
 		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&lt;FQ!!!!E!A!!!!!!)!!&gt;!#A!"7!!(1!I!!6E!#U!+!!6"&lt;G&gt;M:1!71&amp;!!!Q!!!!%!!AB1&lt;X.J&gt;'FP&lt;A!!#U!+!!2-:7:U!!!,1!I!"6*J:WBU!""!5!!#!!1!"164='6F:!!+!&amp;!!!A!$!!9!!1!(!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="RobotState_get.vi" Type="VI" URL="../NetworkVar/RobotState_get.vi"/>
-	<Item Name="RobotState_set.vi" Type="VI" URL="../NetworkVar/RobotState_set.vi"/>
-	<Item Name="Stop" Type="Variable">
+	<Item Name="Stop_global" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network,Real-Time Features</Property>
-		<Property Name="Network:SingleWriter" Type="Str">True</Property>
+		<Property Name="Initial Value:Value" Type="Str">False</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
-		<Property Name="path" Type="Str"></Property>
+		<Property Name="path" Type="Str">/scmproject.lvproj/RT CompactRIO Target/NetworkVar.lvlib/</Property>
 		<Property Name="Real-Time Features:ApplyNetworkConfig" Type="Str">False</Property>
 		<Property Name="Real-Time Features:BufferLength" Type="Str">1</Property>
 		<Property Name="Real-Time Features:UseBuffering" Type="Str">False</Property>
@@ -35,6 +34,4 @@
 		<Property Name="typeDefPath" Type="Str"></Property>
 		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!!E!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="Stop_get.vi" Type="VI" URL="../NetworkVar/Stop_get.vi"/>
-	<Item Name="Stop_set.vi" Type="VI" URL="../NetworkVar/Stop_set.vi"/>
 </Library>
