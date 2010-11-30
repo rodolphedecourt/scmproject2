@@ -10,4 +10,5 @@
 	<Item Name="Nav_CordinateArray.ctl" Type="VI" URL="../Navigation/Nav_CordinateArray.ctl"/>
 	<Item Name="Nav_RobotAbsolutePosition.ctl" Type="VI" URL="../Navigation/Nav_RobotAbsolutePosition.ctl"/>
 	<Item Name="Nav_Cordinates.ctl" Type="VI" URL="../Navigation/Nav_Cordinates.ctl"/>
+	<Item Name="Nav_CheckMinDistanceToNode.vi" Type="VI" URL="../Navigation/Nav_CheckMinDistanceToNode.vi"/>
 </Library>
