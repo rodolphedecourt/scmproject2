@@ -18,4 +18,5 @@
 	<Item Name="Drive_Utils_getRobotState.vi" Type="VI" URL="../Drive_Utils_getRobotState.vi"/>
 	<Item Name="Drive_Utils_setRobotState.vi" Type="VI" URL="../Drive_Utils_setRobotState.vi"/>
 	<Item Name="Drive_RobotState.ctl" Type="VI" URL="../Drive_RobotState.ctl"/>
+	<Item Name="Drive_utils_LimitAngle.vi" Type="VI" URL="../Drive_utils_LimitAngle.vi"/>
 </Library>
