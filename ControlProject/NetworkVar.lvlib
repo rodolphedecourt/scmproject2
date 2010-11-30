@@ -9,7 +9,7 @@
 </Property>
 	<Item Name="RobotState" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
-		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:SingleWriter" Type="Str">True</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="path" Type="Str"></Property>
