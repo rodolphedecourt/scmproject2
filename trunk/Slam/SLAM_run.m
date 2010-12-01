@@ -1,0 +1,1 @@
+  [Xout, Pout, Xodometry, measuredLandmarks] = SLAM(X, P, dX, measurements);
