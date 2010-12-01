@@ -9,4 +9,6 @@
 
 </Property>
 	<Item Name="CalcRobotRectangle.vi" Type="VI" URL="../Draw/CalcRobotRectangle.vi"/>
+	<Item Name="Constants.vi" Type="VI" URL="../Draw/Constants.vi"/>
+	<Item Name="MetersToPixels.vi" Type="VI" URL="../Draw/MetersToPixels.vi"/>
 </Library>
