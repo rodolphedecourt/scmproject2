@@ -15,4 +15,5 @@
 	<Item Name="PWMTest.vi" Type="VI" URL="../Test/PWMTest.vi"/>
 	<Item Name="SerialTest.vi" Type="VI" URL="../Test/SerialTest.vi"/>
 	<Item Name="Servo_test.vi" Type="VI" URL="../Servo/Servo_test.vi"/>
+	<Item Name="SLAMTest.vi" Type="VI" URL="../SLAMTest.vi"/>
 </Library>
