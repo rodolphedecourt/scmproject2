@@ -38,6 +38,7 @@
 				<Item Name="Move Pen.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Move Pen.vi"/>
 				<Item Name="subTimeDelay.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/TimeDelayBlock.llb/subTimeDelay.vi"/>
 				<Item Name="IMAQ Image.ctl" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/IMAQ Image.ctl"/>
+				<Item Name="Draw Point.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Point.vi"/>
 			</Item>
 			<Item Name="NetworkVarTarget.lvlib" Type="Library" URL="../NetworkVarTarget.lvlib"/>
 		</Item>
@@ -99,6 +100,7 @@
 		<Item Name="SLAM" Type="Folder">
 			<Item Name="slam.vi" Type="VI" URL="../../Slam/slam.vi"/>
 		</Item>
+		<Item Name="Mapping" Type="Folder"/>
 		<Item Name="PathPlanning" Type="Folder">
 			<Item Name="PathPlanning.vi" Type="VI" URL="../../PathPlanning/PathPlanning.vi"/>
 		</Item>
@@ -116,7 +118,6 @@
 			<Item Name="Servo.lvlib" Type="Library" URL="../Servo.lvlib"/>
 			<Item Name="Utility.lvlib" Type="Library" URL="../Utility.lvlib"/>
 		</Item>
-		<Item Name="Mapping" Type="Folder"/>
 		<Item Name="Chassis" Type="cRIO Chassis">
 			<Property Name="crio.ProgrammingMode" Type="Str">fpga</Property>
 			<Property Name="crio.ResourceID" Type="Str">RIO0</Property>

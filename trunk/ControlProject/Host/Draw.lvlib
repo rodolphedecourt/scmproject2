@@ -11,4 +11,10 @@
 	<Item Name="CalcRobotRectangle.vi" Type="VI" URL="../Draw/CalcRobotRectangle.vi"/>
 	<Item Name="Constants.vi" Type="VI" URL="../Draw/Constants.vi"/>
 	<Item Name="MetersToPixels.vi" Type="VI" URL="../Draw/MetersToPixels.vi"/>
+	<Item Name="DrawRobot.vi" Type="VI" URL="../Draw/DrawRobot.vi"/>
+	<Item Name="DrawTraveledPath.vi" Type="VI" URL="../Draw/DrawTraveledPath.vi"/>
+	<Item Name="AbsPositionToPicture.vi" Type="VI" URL="../Draw/AbsPositionToPicture.vi"/>
+	<Item Name="DrawPlannedPath.vi" Type="VI" URL="../Draw/DrawPlannedPath.vi"/>
+	<Item Name="DrawGoal.vi" Type="VI" URL="../Draw/DrawGoal.vi"/>
+	<Item Name="AbsPointToPicture.vi" Type="VI" URL="../Draw/AbsPointToPicture.vi"/>
 </Library>
