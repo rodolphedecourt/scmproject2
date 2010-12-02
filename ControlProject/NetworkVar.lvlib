@@ -53,6 +53,6 @@
 		<Property Name="path" Type="Str"></Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDefPath" Type="Str"></Property>
-		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!U-!!!!!E!A!!!!!!"!!R!5Q&gt;798*J97ZU!!%!!!E!A!!!!!!"!!1!!!!"!!!!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!!E!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 </Library>
