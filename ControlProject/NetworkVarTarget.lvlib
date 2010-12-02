@@ -14,5 +14,4 @@
 	<Item Name="Goal_set.vi" Type="VI" URL="../NetworkVar/Goal_set.vi"/>
 	<Item Name="Image_set.vi" Type="VI" URL="../NetworkVar/Image_set.vi"/>
 	<Item Name="Image_get.vi" Type="VI" URL="../NetworkVar/Image_get.vi"/>
-	<Item Name="Image.ctl" Type="VI" URL="../NetworkVar/Image.ctl"/>
 </Library>
