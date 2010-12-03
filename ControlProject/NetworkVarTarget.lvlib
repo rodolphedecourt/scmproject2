@@ -14,4 +14,8 @@
 	<Item Name="Goal_set.vi" Type="VI" URL="../NetworkVar/Goal_set.vi"/>
 	<Item Name="Image_set.vi" Type="VI" URL="../NetworkVar/Image_set.vi"/>
 	<Item Name="Image_get.vi" Type="VI" URL="../NetworkVar/Image_get.vi"/>
+	<Item Name="PlannedPath_get.vi" Type="VI" URL="../NetworkVar/PlannedPath_get.vi"/>
+	<Item Name="PlannedPath_set.vi" Type="VI" URL="../NetworkVar/PlannedPath_set.vi"/>
+	<Item Name="Map_set.vi" Type="VI" URL="../NetworkVar/Map_set.vi"/>
+	<Item Name="Map_get.vi" Type="VI" URL="../NetworkVar/Map_get.vi"/>
 </Library>
