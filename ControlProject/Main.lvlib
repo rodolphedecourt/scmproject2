@@ -10,6 +10,7 @@
 	<Item Name="SubVIs" Type="Folder">
 		<Item Name="StopLoop.vi" Type="VI" URL="../Main/SubVIs/StopLoop.vi"/>
 		<Item Name="NodesToAbsCoordinates.vi" Type="VI" URL="../Main/SubVIs/NodesToAbsCoordinates.vi"/>
+		<Item Name="ShiftToMapCoord.vi" Type="VI" URL="../Main/SubVIs/ShiftToMapCoord.vi"/>
 	</Item>
 	<Item Name="MainVariables.lvlib" Type="Library" URL="../Main/MainVariables.lvlib"/>
 	<Item Name="Close.vi" Type="VI" URL="../Main/Close.vi"/>

@@ -100,7 +100,9 @@
 		<Item Name="SLAM" Type="Folder">
 			<Item Name="slam.vi" Type="VI" URL="../../Slam/slam.vi"/>
 		</Item>
-		<Item Name="Mapping" Type="Folder"/>
+		<Item Name="Mapping" Type="Folder">
+			<Item Name="Build Map.vi" Type="VI" URL="../../ImageProject/Mapping/Build Map.vi"/>
+		</Item>
 		<Item Name="PathPlanning" Type="Folder">
 			<Item Name="PathPlanning.vi" Type="VI" URL="../../PathPlanning/PathPlanning.vi"/>
 		</Item>
@@ -615,6 +617,7 @@
 				<Item Name="NI_Vision_Acquisition_Software.lvlib" Type="Library" URL="/&lt;vilib&gt;/vision/driver/NI_Vision_Acquisition_Software.lvlib"/>
 				<Item Name="IMAQdx.ctl" Type="VI" URL="/&lt;vilib&gt;/userdefined/High Color/IMAQdx.ctl"/>
 				<Item Name="Vision Acquisition CalculateFPS.vi" Type="VI" URL="/&lt;vilib&gt;/vision/driver/Vision Acquisition Express Utility VIs.llb/Vision Acquisition CalculateFPS.vi"/>
+				<Item Name="Error Code Database.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Code Database.vi"/>
 			</Item>
 			<Item Name="NiRioSrv.dll" Type="Document" URL="NiRioSrv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -635,6 +638,34 @@
 			<Item Name="Dijkstra.vi" Type="VI" URL="../../PathPlanning/Dijkstra.vi"/>
 			<Item Name="createNetCostMatrix.vi" Type="VI" URL="../../PathPlanning/createNetCostMatrix.vi"/>
 			<Item Name="createEdge.vi" Type="VI" URL="../../PathPlanning/createEdge.vi"/>
+			<Item Name="Merge corners.vi" Type="VI" URL="../../ImageProject/Mapping/Merge corners.vi"/>
+			<Item Name="Remove Corners.vi" Type="VI" URL="../../ImageProject/Mapping/Remove Corners.vi"/>
+			<Item Name="Is a Corner.vi" Type="VI" URL="../../ImageProject/Mapping/Is a Corner.vi"/>
+			<Item Name="Find all New Corners.vi" Type="VI" URL="../../ImageProject/Mapping/Find all New Corners.vi"/>
+			<Item Name="Find New Corners.vi" Type="VI" URL="../../ImageProject/Mapping/Find New Corners.vi"/>
+			<Item Name="Find Corners in sub.vi" Type="VI" URL="../../ImageProject/Mapping/Find Corners in sub.vi"/>
+			<Item Name="Insert Walls in Map.vi" Type="VI" URL="../../ImageProject/Mapping/Insert Walls in Map.vi"/>
+			<Item Name="Update Map.vi" Type="VI" URL="../../ImageProject/Mapping/Update Map.vi"/>
+			<Item Name="Insert Object in Map.vi" Type="VI" URL="../../ImageProject/Mapping/Insert Object in Map.vi"/>
+			<Item Name="Relative2AbsoluteCords.vi" Type="VI" URL="../../ImageProject/Mapping/Relative2AbsoluteCords.vi"/>
+			<Item Name="MC_Registration_Global.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/GlobalRegistration/MC_Registration_Global.vi"/>
+			<Item Name="MC_Registered_VIs_Global.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/GlobalRegistration/MC_Registered_VIs_Global.vi"/>
+			<Item Name="MC_Close_All_Registered_SubVI.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/GlobalRegistration/MC_Close_All_Registered_SubVI.vi"/>
+			<Item Name="MC_Register_Notification_Command.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/GlobalRegistration/MC_Register_Notification_Command.ctl"/>
+			<Item Name="MC_Register_Notification_Type.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/GlobalRegistration/MC_Register_Notification_Type.ctl"/>
+			<Item Name="MC_Get_Notification_Event.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/GlobalRegistration/MC_Get_Notification_Event.vi"/>
+			<Item Name="MC_Registered_VIs.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/GlobalRegistration/MC_Registered_VIs.vi"/>
+			<Item Name="MC_GlobalManager_Actions.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/GlobalManager/MC_GlobalManager_Actions.ctl"/>
+			<Item Name="MC_Global_NamesAndDefaultValues.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Constants/MC_Global_NamesAndDefaultValues.vi"/>
+			<Item Name="MC_GlobalManager.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/GlobalManager/MC_GlobalManager.vi"/>
+			<Item Name="Untranslate Error.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath/Functions/Error Handling/Untranslate Error.vi"/>
+			<Item Name="NIMS_ArithmeticOperator_multmx-internal_6200EB4B3F124C58BAF70578A90208C3_005.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/NIMS_ArithmeticOperator_multmx-internal_6200EB4B3F124C58BAF70578A90208C3.lvgen/NIMS_ArithmeticOperator_multmx-internal_6200EB4B3F124C58BAF70578A90208C3_005.vi"/>
+			<Item Name="MCStatic_151019524_cbd3511d81a88cf81857cab29b5138f7_4AC26EBF08D24C8781CC75C7A712CE60_000.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_151019524_cbd3511d81a88cf81857cab29b5138f7_4AC26EBF08D24C8781CC75C7A712CE60.lvgen/MCStatic_151019524_cbd3511d81a88cf81857cab29b5138f7_4AC26EBF08D24C8781CC75C7A712CE60_000.vi"/>
+			<Item Name="NIMS_I32Row=size(GRow).vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctions/size/NIMS_I32Row=size(GRow).vi"/>
+			<Item Name="NIMS_ArithmeticOperator_plus_C2557ADBC1AF4CC89A8D103312A7892D_006.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/NIMS_ArithmeticOperator_plus_C2557ADBC1AF4CC89A8D103312A7892D.lvgen/NIMS_ArithmeticOperator_plus_C2557ADBC1AF4CC89A8D103312A7892D_006.vi"/>
+			<Item Name="MCStatic_151019524_15a4cd1176a883c3979ad42d0ffec19b_B7B84BFCF34040C4BA24BFB320B14DAD_000.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_151019524_15a4cd1176a883c3979ad42d0ffec19b_B7B84BFCF34040C4BA24BFB320B14DAD.lvgen/MCStatic_151019524_15a4cd1176a883c3979ad42d0ffec19b_B7B84BFCF34040C4BA24BFB320B14DAD_000.vi"/>
+			<Item Name="NIMS_I32Row=size(GRow)_E5C05C6B13124B29B774CC4F993D3C59_000.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/NIMS_I32Row=size(GRow)_E5C05C6B13124B29B774CC4F993D3C59.lvgen/NIMS_I32Row=size(GRow)_E5C05C6B13124B29B774CC4F993D3C59_000.vi"/>
+			<Item Name="MCStatic_151019524_ad724092c47a0234d752bb7efc624bed_9151CE29FCFB45E5B330A4E59CDA868D_000.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_151019524_ad724092c47a0234d752bb7efc624bed_9151CE29FCFB45E5B330A4E59CDA868D.lvgen/MCStatic_151019524_ad724092c47a0234d752bb7efc624bed_9151CE29FCFB45E5B330A4E59CDA868D_000.vi"/>
 			<Item Name="scmproject.lvproj_FPGA Target_RobotFPGA.vi.lvbitx" Type="Document" URL="../FPGA Bitfiles/scmproject.lvproj_FPGA Target_RobotFPGA.vi.lvbitx"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
