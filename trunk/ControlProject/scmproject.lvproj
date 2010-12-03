@@ -15,6 +15,8 @@
 	<Property Name="varPersistentID:{719C38D4-E9B7-431D-8C76-CB8D86C9DAEE}" Type="Ref">/RT CompactRIO Target/Control/Servo.lvlib/Servo_Angles</Property>
 	<Property Name="varPersistentID:{87AA9D88-44CA-409E-BA29-684B18951CCE}" Type="Ref">/RT CompactRIO Target/Main.lvlib/MainVariables.lvlib/AbortReachGoal</Property>
 	<Property Name="varPersistentID:{8A48BDA6-1C42-412C-A9A5-DE003EC7EBA4}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/Image</Property>
+	<Property Name="varPersistentID:{CA82F388-5901-474C-A553-7C51A504A330}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/PlannedPath</Property>
+	<Property Name="varPersistentID:{D894EEF3-64C1-4EA7-BB51-DA52EAE4A9E5}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/Map</Property>
 	<Property Name="varPersistentID:{F38CC261-2707-4686-A1DF-11687BE95A1B}" Type="Ref">/RT CompactRIO Target/Control/Drive.lvlib/Drive_RobotState</Property>
 	<Property Name="varPersistentID:{F766A3CC-2482-4B98-986E-9DA06858D04D}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/RobotState</Property>
 	<Item Name="My Computer" Type="My Computer">
@@ -139,6 +141,7 @@
 		</Item>
 		<Item Name="PathPlanning" Type="Folder">
 			<Item Name="PathPlanning.vi" Type="VI" URL="../../PathPlanning/PathPlanning.vi"/>
+			<Item Name="PathPlanning-int.vi" Type="VI" URL="../../PathPlanning/PathPlanning-int.vi"/>
 		</Item>
 		<Item Name="Navigation" Type="Folder">
 			<Item Name="Navigation.lvlib" Type="Library" URL="../Navigation.lvlib"/>
@@ -688,7 +691,6 @@
 				<Property Name="App_applicationGUID" Type="Str">{606DABDD-B2FA-477E-9B5E-1FFBE3923931}</Property>
 				<Property Name="App_applicationName" Type="Str">startup.rtexe</Property>
 				<Property Name="App_companyName" Type="Str">Chalmers University of Technology</Property>
-				<Property Name="App_copyErrors" Type="Bool">true</Property>
 				<Property Name="App_enableDebugging" Type="Bool">true</Property>
 				<Property Name="App_fileDescription" Type="Str">My Real-Time Application</Property>
 				<Property Name="App_fileVersion.major" Type="Int">1</Property>
@@ -701,6 +703,7 @@
 				<Property Name="Bld_buildSpecName" Type="Str">RobotRun</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeTypedefs" Type="Bool">true</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/c/ni-rt/startup/startup.rtexe</Property>
@@ -712,7 +715,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="RTExe_localDestPath" Type="Path">../builds/NI_AB_PROJECTNAME/NI_AB_TARGETNAME/RobotRun</Property>
-				<Property Name="Source[0].itemID" Type="Str">{13BAD7AA-8DC4-4A9E-8DC7-72DFDE35E560}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{9EBED5EE-E806-4BB3-B805-1AF8D781BBAF}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/RT CompactRIO Target/Main.lvlib/Main.vi</Property>

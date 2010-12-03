@@ -55,4 +55,24 @@
 		<Property Name="typeDefPath" Type="Str"></Property>
 		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!!E!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
+	<Item Name="PlannedPath" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="path" Type="Str"></Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDefPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"=7!!!!!E!A!!!!!!%!"&amp;!#A!+7#"Q&lt;X.J&gt;'FP&lt;A!!%5!+!!J:)("P=WFU;7^O!!!+!&amp;!!!A!!!!%!'%"!!!(`````!!),1W^P=G2J&lt;G&amp;U:8-!!1!$!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Map" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="path" Type="Str"></Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDefPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"*21!!!!E!A!!!!!!#!"F!!1!45G6B&lt;#".982S;8AA27RF&lt;76O&gt;!!51%!!!P``````````!!!$47&amp;Q!!%!!1!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
 </Library>
