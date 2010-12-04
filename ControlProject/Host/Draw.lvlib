@@ -18,4 +18,5 @@
 	<Item Name="DrawGoal.vi" Type="VI" URL="../Draw/DrawGoal.vi"/>
 	<Item Name="AbsPointToPicture.vi" Type="VI" URL="../Draw/AbsPointToPicture.vi"/>
 	<Item Name="DrawMap.vi" Type="VI" URL="../Draw/DrawMap.vi"/>
+	<Item Name="DrawLandmarks.vi" Type="VI" URL="../Draw/DrawLandmarks.vi"/>
 </Library>

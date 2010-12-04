@@ -18,4 +18,6 @@
 	<Item Name="PlannedPath_set.vi" Type="VI" URL="../NetworkVar/PlannedPath_set.vi"/>
 	<Item Name="Map_set.vi" Type="VI" URL="../NetworkVar/Map_set.vi"/>
 	<Item Name="Map_get.vi" Type="VI" URL="../NetworkVar/Map_get.vi"/>
+	<Item Name="Landmarks_set.vi" Type="VI" URL="../NetworkVar/Landmarks_set.vi"/>
+	<Item Name="Landmarks_get.vi" Type="VI" URL="../NetworkVar/Landmarks_get.vi"/>
 </Library>

@@ -12,6 +12,7 @@
 	<Property Name="varPersistentID:{56FC716A-90A7-46C1-945F-6591CB17E585}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/Goal</Property>
 	<Property Name="varPersistentID:{5FFB20CE-4D78-4FBD-9FD6-3A897E152826}" Type="Ref">/RT CompactRIO Target/Control/Utility.lvlib/Settings_Variable</Property>
 	<Property Name="varPersistentID:{633825DB-51B1-4ECA-8854-5519E2BEEC34}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/global_Stop</Property>
+	<Property Name="varPersistentID:{6DF77F75-DEC2-4137-8CE7-9774AAA47D11}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/Landmarks</Property>
 	<Property Name="varPersistentID:{719C38D4-E9B7-431D-8C76-CB8D86C9DAEE}" Type="Ref">/RT CompactRIO Target/Control/Servo.lvlib/Servo_Angles</Property>
 	<Property Name="varPersistentID:{87AA9D88-44CA-409E-BA29-684B18951CCE}" Type="Ref">/RT CompactRIO Target/Main.lvlib/MainVariables.lvlib/AbortReachGoal</Property>
 	<Property Name="varPersistentID:{8A48BDA6-1C42-412C-A9A5-DE003EC7EBA4}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/Image</Property>
