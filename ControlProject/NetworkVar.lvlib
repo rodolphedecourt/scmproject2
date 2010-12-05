@@ -85,4 +85,13 @@
 		<Property Name="typeDefPath" Type="Str"></Property>
 		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"=7!!!!!E!A!!!!!!%!"&amp;!#A!+7#"Q&lt;X.J&gt;'FP&lt;A!!%5!+!!J:)("P=WFU;7^O!!!+!&amp;!!!A!!!!%!'%"!!!(`````!!),1W^P=G2J&lt;G&amp;U:8-!!1!$!!!!!!!!!!!!!!!!</Property>
 	</Item>
+	<Item Name="RobotState_fromDrive" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="path" Type="Str"></Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDefPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#HIQ!!!!E!A!!!!!!)!!&gt;!#A!"7!!(1!I!!6E!#U!+!!6"&lt;G&gt;M:1!71&amp;!!!Q!!!!%!!AB1&lt;X.J&gt;'FP&lt;A!!#U!+!!2-:7:U!!!,1!I!"6*J:WBU!""!5!!#!!1!"164='6F:!!71&amp;!!!A!$!!9,5G^C&lt;X1A5X2B&gt;'5!!1!(!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
 </Library>

@@ -20,4 +20,6 @@
 	<Item Name="Map_get.vi" Type="VI" URL="../NetworkVar/Map_get.vi"/>
 	<Item Name="Landmarks_set.vi" Type="VI" URL="../NetworkVar/Landmarks_set.vi"/>
 	<Item Name="Landmarks_get.vi" Type="VI" URL="../NetworkVar/Landmarks_get.vi"/>
+	<Item Name="RobotState_fromDrive_get.vi" Type="VI" URL="../NetworkVar/RobotState_fromDrive_get.vi"/>
+	<Item Name="RobotState_fromDrive_set.vi" Type="VI" URL="../NetworkVar/RobotState_fromDrive_set.vi"/>
 </Library>

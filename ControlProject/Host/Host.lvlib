@@ -10,5 +10,4 @@
 	<Item Name="Draw.lvlib" Type="Library" URL="../Draw.lvlib"/>
 	<Item Name="ShowRobotPosition.vi" Type="VI" URL="../ShowRobotPosition.vi"/>
 	<Item Name="SimulationData.vi" Type="VI" URL="../SimulationData.vi"/>
-	<Item Name="NetworkVarHost.lvlib" Type="Library" URL="../NetworkVarHost.lvlib"/>
 </Library>
