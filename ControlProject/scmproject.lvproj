@@ -40,9 +40,9 @@
 				<Item Name="Empty Picture" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Empty Picture"/>
 				<Item Name="Draw Multiple Lines.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Multiple Lines.vi"/>
 				<Item Name="Move Pen.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Move Pen.vi"/>
-				<Item Name="subTimeDelay.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/TimeDelayBlock.llb/subTimeDelay.vi"/>
 				<Item Name="IMAQ Image.ctl" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/IMAQ Image.ctl"/>
 				<Item Name="Draw Point.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Point.vi"/>
+				<Item Name="subTimeDelay.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/TimeDelayBlock.llb/subTimeDelay.vi"/>
 			</Item>
 			<Item Name="NetworkVarTarget.lvlib" Type="Library" URL="../NetworkVarTarget.lvlib"/>
 		</Item>
@@ -137,6 +137,7 @@
 		</Item>
 		<Item Name="SLAM" Type="Folder">
 			<Item Name="slam.vi" Type="VI" URL="../../Slam/slam.vi"/>
+			<Item Name="slam3.vi" Type="VI" URL="../../Slam/slam3.vi"/>
 			<Item Name="LV_SLAM.lvlib" Type="Library" URL="../../LV_SLAM/LV_SLAM.lvlib"/>
 		</Item>
 		<Item Name="Mapping" Type="Folder">
@@ -687,6 +688,9 @@
 			<Item Name="Update Map.vi" Type="VI" URL="../../ImageProject/Mapping/Update Map.vi"/>
 			<Item Name="Insert Object in Map.vi" Type="VI" URL="../../ImageProject/Mapping/Insert Object in Map.vi"/>
 			<Item Name="Relative2AbsoluteCords.vi" Type="VI" URL="../../ImageProject/Mapping/Relative2AbsoluteCords.vi"/>
+			<Item Name="SLAM.m" Type="Document" URL="../../Matlab/SLAM.m"/>
+			<Item Name="MCStatic_151019524_e1a397bcafc81a1fbed368d2c996ebff.vi" Type="VI" URL="../../../../LabVIEW Data/MathScriptVIs/MCStatic_151019524_e1a397bcafc81a1fbed368d2c996ebff.vi"/>
+			<Item Name="MCStatic_151019524_e1a397bcafc81a1fbed368d2c996ebff_851D8408E3074C86B6B330D7E2AB0140_000.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_151019524_e1a397bcafc81a1fbed368d2c996ebff_851D8408E3074C86B6B330D7E2AB0140.lvgen/MCStatic_151019524_e1a397bcafc81a1fbed368d2c996ebff_851D8408E3074C86B6B330D7E2AB0140_000.vi"/>
 			<Item Name="scmproject.lvproj_FPGA Target_RobotFPGA.vi.lvbitx" Type="Document" URL="../FPGA Bitfiles/scmproject.lvproj_FPGA Target_RobotFPGA.vi.lvbitx"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">

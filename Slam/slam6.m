@@ -45,7 +45,7 @@ stepAngle = pi/180*30;
 
 %Vision parameters
 visionRange = 3;
-visionAngle = pi/180*20;
+visionAngle = pi/180*17;
 
 %Init movement
 stepNumber = 0;
