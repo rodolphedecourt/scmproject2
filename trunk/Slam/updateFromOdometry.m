@@ -1,6 +1,9 @@
 function [X, P] = updateFromOdometry(X, dX, P, CC)
 
-X(1:3) = X(1:3) + dX;       %Update position from estimated dX
+%X(1:3) = X(1:3) + dX;       %Update position from estimated dX
+for i=1:3
+    X(i) = X(i) + dX(i);
+end
 
 %Update covariance matrix
 AA = [1 0 -dX(2);

@@ -25,7 +25,7 @@ area = [xmin xmax ymin ymax];
 %Set landmarks
 landmarkDistance = 1;
 distToEdge = 0.5;
-landmarks = setLandmarks(3);
+landmarks = setLandmarks(4);
 %landmarks = setLandmarks2(area, landmarkDistance, distToEdge);
 temp = size(landmarks);
 totalNumberLandmarks = temp(1);
@@ -96,9 +96,9 @@ Xreal = X;  %Not part of algorithm
     rangeError = stepLength * 2*rangeVar*(rand-0.5);
     angleError = stepAngle * 2*angleVar*(rand-0.5);
     
-    dX = [dX(1) + rangeError*cos(X(3));
-          dX(2) + rangeError*sin(X(3));
-          dX(3) + angleError];
+%     dX = [dX(1) + rangeError*cos(X(3));
+%           dX(2) + rangeError*sin(X(3));
+%           dX(3) + angleError];
     
     % dX = transformMovement(dr, dt, X);                       %****** FOR REAL CODE ******
     

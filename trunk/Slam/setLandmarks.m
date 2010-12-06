@@ -39,5 +39,10 @@ elseif(set == 3)
                  2.25 1;
                  1.25 1];
              
-     landmarks = landmarks - ones(length(landmarks),2)*2.5;
+             landmarks = landmarks - ones(length(landmarks),2)*2.5;
+             
+elseif(set == 4)
+    landmarks = [0 1;
+                 1 1];
+             
 end

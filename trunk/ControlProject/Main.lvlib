@@ -13,6 +13,7 @@
 		<Item Name="ShiftToMapCoord.vi" Type="VI" URL="../Main/SubVIs/ShiftToMapCoord.vi"/>
 		<Item Name="SLAM_emulation.vi" Type="VI" URL="../Main/SubVIs/SLAM_emulation.vi"/>
 		<Item Name="MapTypeDef.ctl" Type="VI" URL="../Main/SubVIs/MapTypeDef.ctl"/>
+		<Item Name="IsGoalReached.vi" Type="VI" URL="../Main/SubVIs/IsGoalReached.vi"/>
 	</Item>
 	<Item Name="MainVariables.lvlib" Type="Library" URL="../Main/MainVariables.lvlib"/>
 	<Item Name="Close.vi" Type="VI" URL="../Main/Close.vi"/>
