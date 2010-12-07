@@ -15,6 +15,7 @@
 	<Property Name="varPersistentID:{633825DB-51B1-4ECA-8854-5519E2BEEC34}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/global_Stop</Property>
 	<Property Name="varPersistentID:{6DF77F75-DEC2-4137-8CE7-9774AAA47D11}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/Landmarks</Property>
 	<Property Name="varPersistentID:{719C38D4-E9B7-431D-8C76-CB8D86C9DAEE}" Type="Ref">/RT CompactRIO Target/Control/Servo.lvlib/Servo_Angles</Property>
+	<Property Name="varPersistentID:{760A778D-64E1-4D34-9E46-79869475B882}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/MeasuredWalls</Property>
 	<Property Name="varPersistentID:{87AA9D88-44CA-409E-BA29-684B18951CCE}" Type="Ref">/RT CompactRIO Target/Main.lvlib/MainVariables.lvlib/AbortReachGoal</Property>
 	<Property Name="varPersistentID:{8A48BDA6-1C42-412C-A9A5-DE003EC7EBA4}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/Image</Property>
 	<Property Name="varPersistentID:{CA82F388-5901-474C-A553-7C51A504A330}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/PlannedPath</Property>

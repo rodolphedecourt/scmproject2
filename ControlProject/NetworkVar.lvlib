@@ -98,4 +98,14 @@
 		<Property Name="typeDefPath" Type="Str"></Property>
 		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&lt;FQ!!!!E!A!!!!!!)!!&gt;!#A!"7!!(1!I!!6E!#U!+!!6"&lt;G&gt;M:1!71&amp;!!!Q!!!!%!!AB1&lt;X.J&gt;'FP&lt;A!!#U!+!!2-:7:U!!!,1!I!"6*J:WBU!""!5!!#!!1!"164='6F:!!+!&amp;!!!A!$!!9!!1!(!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
+	<Item Name="MeasuredWalls" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="path" Type="Str"></Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDefPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"R&lt;1!!!!E!A!!!!!!&amp;!!^!#A!)2'FT&gt;'&amp;O9W5!!".!#A!.17ZH&lt;'5A&gt;']A&gt;W&amp;M&lt;!!41!I!$5&amp;O:WRF)'^G)(&gt;B&lt;'Q!%E"1!!-!!!!"!!)%6W&amp;M&lt;!!!%E"!!!(`````!!-&amp;6W&amp;M&lt;(-!!1!%!!!!!!!!!!!!!!!!</Property>
+	</Item>
 </Library>
