@@ -12,6 +12,7 @@
 	<Property Name="varPersistentID:{406B2C27-B8CF-4B44-8A7F-7C90041EC50A}" Type="Ref">/RT CompactRIO Target/Control/OWNCAN.lvlib/CAN_Jaguars_ref</Property>
 	<Property Name="varPersistentID:{56FC716A-90A7-46C1-945F-6591CB17E585}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/Goal</Property>
 	<Property Name="varPersistentID:{5FFB20CE-4D78-4FBD-9FD6-3A897E152826}" Type="Ref">/RT CompactRIO Target/Control/Utility.lvlib/Settings_Variable</Property>
+	<Property Name="varPersistentID:{60D901F6-70A7-46BF-9865-82B6851BB283}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/CollisionDetected</Property>
 	<Property Name="varPersistentID:{633825DB-51B1-4ECA-8854-5519E2BEEC34}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/global_Stop</Property>
 	<Property Name="varPersistentID:{6DF77F75-DEC2-4137-8CE7-9774AAA47D11}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/Landmarks</Property>
 	<Property Name="varPersistentID:{719C38D4-E9B7-431D-8C76-CB8D86C9DAEE}" Type="Ref">/RT CompactRIO Target/Control/Servo.lvlib/Servo_Angles</Property>
@@ -657,7 +658,7 @@
 				<Item Name="IMAQ GetImageSize" Type="VI" URL="/&lt;vilib&gt;/vision/Basics.llb/IMAQ GetImageSize"/>
 				<Item Name="IMAQ Dispose" Type="VI" URL="/&lt;vilib&gt;/vision/Basics.llb/IMAQ Dispose"/>
 				<Item Name="NI_Vision_Acquisition_Software.lvlib" Type="Library" URL="/&lt;vilib&gt;/vision/driver/NI_Vision_Acquisition_Software.lvlib"/>
-				<Item Name="IMAQdx.ctl" Type="VI" URL="/&lt;vilib&gt;/userdefined/High Color/IMAQdx.ctl"/>
+				<Item Name="IMAQdx.ctl" Type="VI" URL="/&lt;vilib&gt;/userDefined/High Color/IMAQdx.ctl"/>
 				<Item Name="Vision Acquisition CalculateFPS.vi" Type="VI" URL="/&lt;vilib&gt;/vision/driver/Vision Acquisition Express Utility VIs.llb/Vision Acquisition CalculateFPS.vi"/>
 				<Item Name="IMAQ Count Objects 2" Type="VI" URL="/&lt;vilib&gt;/vision/Blob.llb/IMAQ Count Objects 2"/>
 				<Item Name="Overlay Results (Blob).vi" Type="VI" URL="/&lt;vilib&gt;/vision/Blob.llb/Overlay Results (Blob).vi"/>
@@ -683,8 +684,7 @@
 			<Item Name="niimaqdx.dll" Type="Document" URL="niimaqdx.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="lvanlys.dll" Type="Document" URL="/C/Program Files/National Instruments/LabVIEW 2009/resource/lvanlys.dll"/>
-			<Item Name="SLAM.m" Type="Document" URL="/C/Users/Timon/Documents/LabVIEW Data/SLAM.m"/>
+			<Item Name="SLAM.m" Type="Document" URL="../../../../../Users/Timon/Documents/LabVIEW Data/SLAM.m"/>
 			<Item Name="Extract coordinates for nodes.vi" Type="VI" URL="../../PathPlanning/Extract coordinates for nodes.vi"/>
 			<Item Name="Dijkstra.vi" Type="VI" URL="../../PathPlanning/Dijkstra.vi"/>
 			<Item Name="createNetCostMatrix.vi" Type="VI" URL="../../PathPlanning/createNetCostMatrix.vi"/>
@@ -694,7 +694,6 @@
 			<Item Name="Is a Corner.vi" Type="VI" URL="../../ImageProject/Mapping/Is a Corner.vi"/>
 			<Item Name="Find all New Corners.vi" Type="VI" URL="../../ImageProject/Mapping/Find all New Corners.vi"/>
 			<Item Name="Find New Corners.vi" Type="VI" URL="../../ImageProject/Mapping/Find New Corners.vi"/>
-			<Item Name="Find Corners in sub.vi" Type="VI" URL="../../ImageProject/Mapping/Find Corners in sub.vi"/>
 			<Item Name="Insert Walls in Map.vi" Type="VI" URL="../../ImageProject/Mapping/Insert Walls in Map.vi"/>
 			<Item Name="Update Map.vi" Type="VI" URL="../../ImageProject/Mapping/Update Map.vi"/>
 			<Item Name="Insert Object in Map.vi" Type="VI" URL="../../ImageProject/Mapping/Insert Object in Map.vi"/>
@@ -702,6 +701,9 @@
 			<Item Name="SLAM.m" Type="Document" URL="../../Matlab/SLAM.m"/>
 			<Item Name="MCStatic_151019524_e1a397bcafc81a1fbed368d2c996ebff.vi" Type="VI" URL="../../../../LabVIEW Data/MathScriptVIs/MCStatic_151019524_e1a397bcafc81a1fbed368d2c996ebff.vi"/>
 			<Item Name="MCStatic_151019524_e1a397bcafc81a1fbed368d2c996ebff_851D8408E3074C86B6B330D7E2AB0140_000.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_151019524_e1a397bcafc81a1fbed368d2c996ebff_851D8408E3074C86B6B330D7E2AB0140.lvgen/MCStatic_151019524_e1a397bcafc81a1fbed368d2c996ebff_851D8408E3074C86B6B330D7E2AB0140_000.vi"/>
+			<Item Name="lvanlys.dll" Type="Document" URL="../../../../../Labview/resource/lvanlys.dll"/>
+			<Item Name="MCStatic_151019524_ba4b9d4e69408f9a0d39e6e0b59a83bc.vi" Type="VI" URL="../../../../../Users/Timon/Documents/LabVIEW Data/MathScriptVIs/MCStatic_151019524_ba4b9d4e69408f9a0d39e6e0b59a83bc.vi"/>
+			<Item Name="MCStatic_151019524_ba4b9d4e69408f9a0d39e6e0b59a83bc_CF1AE7649DA14147A24F2D226153A6C1_000.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_151019524_ba4b9d4e69408f9a0d39e6e0b59a83bc_CF1AE7649DA14147A24F2D226153A6C1.lvgen/MCStatic_151019524_ba4b9d4e69408f9a0d39e6e0b59a83bc_CF1AE7649DA14147A24F2D226153A6C1_000.vi"/>
 			<Item Name="scmproject.lvproj_FPGA Target_RobotFPGA.vi.lvbitx" Type="Document" URL="../FPGA Bitfiles/scmproject.lvproj_FPGA Target_RobotFPGA.vi.lvbitx"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">

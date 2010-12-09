@@ -108,4 +108,13 @@
 		<Property Name="typeDefPath" Type="Str"></Property>
 		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"R&lt;1!!!!E!A!!!!!!&amp;!!^!#A!)2'FT&gt;'&amp;O9W5!!".!#A!.17ZH&lt;'5A&gt;']A&gt;W&amp;M&lt;!!41!I!$5&amp;O:WRF)'^G)(&gt;B&lt;'Q!%E"1!!-!!!!"!!)%6W&amp;M&lt;!!!%E"!!!(`````!!-&amp;6W&amp;M&lt;(-!!1!%!!!!!!!!!!!!!!!!</Property>
 	</Item>
+	<Item Name="CollisionDetected" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="path" Type="Str"></Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDefPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!!E!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
 </Library>
