@@ -22,4 +22,8 @@
 	<Item Name="Landmarks_get.vi" Type="VI" URL="../NetworkVar/Landmarks_get.vi"/>
 	<Item Name="RobotState_fromDrive_get.vi" Type="VI" URL="../NetworkVar/RobotState_fromDrive_get.vi"/>
 	<Item Name="RobotState_fromDrive_set.vi" Type="VI" URL="../NetworkVar/RobotState_fromDrive_set.vi"/>
+	<Item Name="Collision_set.vi" Type="VI" URL="../NetworkVar/Collision_set.vi"/>
+	<Item Name="Collision_get.vi" Type="VI" URL="../NetworkVar/Collision_get.vi"/>
+	<Item Name="MeasuredWalls_get.vi" Type="VI" URL="../NetworkVar/MeasuredWalls_get.vi"/>
+	<Item Name="MeasuredWalls_set.vi" Type="VI" URL="../NetworkVar/MeasuredWalls_set.vi"/>
 </Library>
