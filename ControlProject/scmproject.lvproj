@@ -684,7 +684,6 @@
 			<Item Name="niimaqdx.dll" Type="Document" URL="niimaqdx.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="SLAM.m" Type="Document" URL="../../../../../Users/Timon/Documents/LabVIEW Data/SLAM.m"/>
 			<Item Name="Extract coordinates for nodes.vi" Type="VI" URL="../../PathPlanning/Extract coordinates for nodes.vi"/>
 			<Item Name="Dijkstra.vi" Type="VI" URL="../../PathPlanning/Dijkstra.vi"/>
 			<Item Name="createNetCostMatrix.vi" Type="VI" URL="../../PathPlanning/createNetCostMatrix.vi"/>
@@ -701,8 +700,9 @@
 			<Item Name="SLAM.m" Type="Document" URL="../../Matlab/SLAM.m"/>
 			<Item Name="MCStatic_151019524_e1a397bcafc81a1fbed368d2c996ebff.vi" Type="VI" URL="../../../../LabVIEW Data/MathScriptVIs/MCStatic_151019524_e1a397bcafc81a1fbed368d2c996ebff.vi"/>
 			<Item Name="MCStatic_151019524_e1a397bcafc81a1fbed368d2c996ebff_851D8408E3074C86B6B330D7E2AB0140_000.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_151019524_e1a397bcafc81a1fbed368d2c996ebff_851D8408E3074C86B6B330D7E2AB0140.lvgen/MCStatic_151019524_e1a397bcafc81a1fbed368d2c996ebff_851D8408E3074C86B6B330D7E2AB0140_000.vi"/>
-			<Item Name="lvanlys.dll" Type="Document" URL="../../../../../Labview/resource/lvanlys.dll"/>
-			<Item Name="MCStatic_151019524_ba4b9d4e69408f9a0d39e6e0b59a83bc.vi" Type="VI" URL="../../../../../Users/Timon/Documents/LabVIEW Data/MathScriptVIs/MCStatic_151019524_ba4b9d4e69408f9a0d39e6e0b59a83bc.vi"/>
+			<Item Name="lvanlys.dll" Type="Document" URL="../../../../../../Program Files/National Instruments/LabVIEW 2009/resource/lvanlys.dll"/>
+			<Item Name="SLAM.m" Type="Document" URL="../../../../../Timon/Documents/LabVIEW Data/SLAM.m"/>
+			<Item Name="MCStatic_151019524_ba4b9d4e69408f9a0d39e6e0b59a83bc.vi" Type="VI" URL="../../../../../Timon/Documents/LabVIEW Data/MathScriptVIs/MCStatic_151019524_ba4b9d4e69408f9a0d39e6e0b59a83bc.vi"/>
 			<Item Name="MCStatic_151019524_ba4b9d4e69408f9a0d39e6e0b59a83bc_CF1AE7649DA14147A24F2D226153A6C1_000.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_151019524_ba4b9d4e69408f9a0d39e6e0b59a83bc_CF1AE7649DA14147A24F2D226153A6C1.lvgen/MCStatic_151019524_ba4b9d4e69408f9a0d39e6e0b59a83bc_CF1AE7649DA14147A24F2D226153A6C1_000.vi"/>
 			<Item Name="scmproject.lvproj_FPGA Target_RobotFPGA.vi.lvbitx" Type="Document" URL="../FPGA Bitfiles/scmproject.lvproj_FPGA Target_RobotFPGA.vi.lvbitx"/>
 		</Item>
