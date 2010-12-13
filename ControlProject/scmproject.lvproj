@@ -704,6 +704,7 @@
 			<Item Name="SLAM.m" Type="Document" URL="../../../../../Timon/Documents/LabVIEW Data/SLAM.m"/>
 			<Item Name="MCStatic_151019524_ba4b9d4e69408f9a0d39e6e0b59a83bc.vi" Type="VI" URL="../../../../../Timon/Documents/LabVIEW Data/MathScriptVIs/MCStatic_151019524_ba4b9d4e69408f9a0d39e6e0b59a83bc.vi"/>
 			<Item Name="MCStatic_151019524_ba4b9d4e69408f9a0d39e6e0b59a83bc_CF1AE7649DA14147A24F2D226153A6C1_000.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_151019524_ba4b9d4e69408f9a0d39e6e0b59a83bc_CF1AE7649DA14147A24F2D226153A6C1.lvgen/MCStatic_151019524_ba4b9d4e69408f9a0d39e6e0b59a83bc_CF1AE7649DA14147A24F2D226153A6C1_000.vi"/>
+			<Item Name="createEdge_labview.vi" Type="VI" URL="../../PathPlanning/createEdge_labview.vi"/>
 			<Item Name="scmproject.lvproj_FPGA Target_RobotFPGA.vi.lvbitx" Type="Document" URL="../FPGA Bitfiles/scmproject.lvproj_FPGA Target_RobotFPGA.vi.lvbitx"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
