@@ -15,6 +15,7 @@
 	<Property Name="varPersistentID:{60D901F6-70A7-46BF-9865-82B6851BB283}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/CollisionDetected</Property>
 	<Property Name="varPersistentID:{633825DB-51B1-4ECA-8854-5519E2BEEC34}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/global_Stop</Property>
 	<Property Name="varPersistentID:{6DF77F75-DEC2-4137-8CE7-9774AAA47D11}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/Landmarks</Property>
+	<Property Name="varPersistentID:{6FDB4596-BB5D-4EDF-85D2-34714B0508FE}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/MeasuredObjects</Property>
 	<Property Name="varPersistentID:{719C38D4-E9B7-431D-8C76-CB8D86C9DAEE}" Type="Ref">/RT CompactRIO Target/Control/Servo.lvlib/Servo_Angles</Property>
 	<Property Name="varPersistentID:{760A778D-64E1-4D34-9E46-79869475B882}" Type="Ref">/RT CompactRIO Target/NetworkVar.lvlib/MeasuredWalls</Property>
 	<Property Name="varPersistentID:{87AA9D88-44CA-409E-BA29-684B18951CCE}" Type="Ref">/RT CompactRIO Target/Main.lvlib/MainVariables.lvlib/AbortReachGoal</Property>
@@ -608,6 +609,7 @@
 		<Item Name="NetworkVar.lvlib" Type="Library" URL="../NetworkVar.lvlib"/>
 		<Item Name="NetworkVarTarget.lvlib" Type="Library" URL="../NetworkVarTarget.lvlib"/>
 		<Item Name="Test.lvlib" Type="Library" URL="../Test.lvlib"/>
+		<Item Name="AcquireImage test 2.vi" Type="VI" URL="../../ImageProject/AcquireImage test 2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
@@ -659,7 +661,6 @@
 				<Item Name="IMAQ Dispose" Type="VI" URL="/&lt;vilib&gt;/vision/Basics.llb/IMAQ Dispose"/>
 				<Item Name="NI_Vision_Acquisition_Software.lvlib" Type="Library" URL="/&lt;vilib&gt;/vision/driver/NI_Vision_Acquisition_Software.lvlib"/>
 				<Item Name="IMAQdx.ctl" Type="VI" URL="/&lt;vilib&gt;/userDefined/High Color/IMAQdx.ctl"/>
-				<Item Name="Vision Acquisition CalculateFPS.vi" Type="VI" URL="/&lt;vilib&gt;/vision/driver/Vision Acquisition Express Utility VIs.llb/Vision Acquisition CalculateFPS.vi"/>
 				<Item Name="IMAQ Count Objects 2" Type="VI" URL="/&lt;vilib&gt;/vision/Blob.llb/IMAQ Count Objects 2"/>
 				<Item Name="Overlay Results (Blob).vi" Type="VI" URL="/&lt;vilib&gt;/vision/Blob.llb/Overlay Results (Blob).vi"/>
 				<Item Name="IMAQ Overlay ROI" Type="VI" URL="/&lt;vilib&gt;/vision/Overlay.llb/IMAQ Overlay ROI"/>
@@ -670,6 +671,7 @@
 				<Item Name="IMAQ Convert Rectangle to ROI" Type="VI" URL="/&lt;vilib&gt;/vision/ROI Conversion.llb/IMAQ Convert Rectangle to ROI"/>
 				<Item Name="IMAQ Particle Filter 2" Type="VI" URL="/&lt;vilib&gt;/vision/Compatibility.llb/IMAQ Particle Filter 2"/>
 				<Item Name="IMAQ Coordinate System" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/IMAQ Coordinate System"/>
+				<Item Name="Vision Acquisition CalculateFPS.vi" Type="VI" URL="/&lt;vilib&gt;/vision/driver/Vision Acquisition Express Utility VIs.llb/Vision Acquisition CalculateFPS.vi"/>
 			</Item>
 			<Item Name="NiRioSrv.dll" Type="Document" URL="NiRioSrv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -702,9 +704,9 @@
 			<Item Name="MCStatic_151019524_e1a397bcafc81a1fbed368d2c996ebff_851D8408E3074C86B6B330D7E2AB0140_000.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_151019524_e1a397bcafc81a1fbed368d2c996ebff_851D8408E3074C86B6B330D7E2AB0140.lvgen/MCStatic_151019524_e1a397bcafc81a1fbed368d2c996ebff_851D8408E3074C86B6B330D7E2AB0140_000.vi"/>
 			<Item Name="MCStatic_151019524_ba4b9d4e69408f9a0d39e6e0b59a83bc_CF1AE7649DA14147A24F2D226153A6C1_000.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_151019524_ba4b9d4e69408f9a0d39e6e0b59a83bc_CF1AE7649DA14147A24F2D226153A6C1.lvgen/MCStatic_151019524_ba4b9d4e69408f9a0d39e6e0b59a83bc_CF1AE7649DA14147A24F2D226153A6C1_000.vi"/>
 			<Item Name="createEdge_labview.vi" Type="VI" URL="../../PathPlanning/createEdge_labview.vi"/>
-			<Item Name="lvanlys.dll" Type="Document" URL="../../../../../Labview/resource/lvanlys.dll"/>
-			<Item Name="SLAM.m" Type="Document" URL="../../../../../Users/Timon/Documents/LabVIEW Data/SLAM.m"/>
-			<Item Name="MCStatic_151019524_ba4b9d4e69408f9a0d39e6e0b59a83bc.vi" Type="VI" URL="../../../../../Users/Timon/Documents/LabVIEW Data/MathScriptVIs/MCStatic_151019524_ba4b9d4e69408f9a0d39e6e0b59a83bc.vi"/>
+			<Item Name="lvanlys.dll" Type="Document" URL="../../../../../../Program Files/National Instruments/LabVIEW 2009/resource/lvanlys.dll"/>
+			<Item Name="SLAM.m" Type="Document" URL="../../../../../Timon/Documents/LabVIEW Data/SLAM.m"/>
+			<Item Name="MCStatic_151019524_ba4b9d4e69408f9a0d39e6e0b59a83bc.vi" Type="VI" URL="../../../../../Timon/Documents/LabVIEW Data/MathScriptVIs/MCStatic_151019524_ba4b9d4e69408f9a0d39e6e0b59a83bc.vi"/>
 			<Item Name="scmproject.lvproj_FPGA Target_RobotFPGA.vi.lvbitx" Type="Document" URL="../FPGA Bitfiles/scmproject.lvproj_FPGA Target_RobotFPGA.vi.lvbitx"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
