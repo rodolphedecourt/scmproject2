@@ -117,4 +117,13 @@
 		<Property Name="typeDefPath" Type="Str"></Property>
 		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!!E!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
+	<Item Name="MeasuredObjects" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="path" Type="Str"></Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDefPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#(AQ!!!!E!A!!!!!!(!!&gt;!#A!"7!!(1!I!!6E!#U!+!!6"&lt;G&gt;M:1!31&amp;!!!Q!!!!%!!A61&lt;WFO&gt;!!31%!!!@````]!!Q6$&lt;X*E=Q!11&amp;!!!1!%"E^C;G6D&gt;!!!)E"!!!(`````!!554W*K:7.U=S"C&lt;X2U&lt;WUA9W^S:(-!!!%!"A!!!!!!!!!!!!!!!!</Property>
+	</Item>
 </Library>

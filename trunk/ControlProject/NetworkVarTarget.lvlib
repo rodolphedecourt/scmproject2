@@ -26,4 +26,6 @@
 	<Item Name="Collision_get.vi" Type="VI" URL="../NetworkVar/Collision_get.vi"/>
 	<Item Name="MeasuredWalls_get.vi" Type="VI" URL="../NetworkVar/MeasuredWalls_get.vi"/>
 	<Item Name="MeasuredWalls_set.vi" Type="VI" URL="../NetworkVar/MeasuredWalls_set.vi"/>
+	<Item Name="MeasuredObj_set.vi" Type="VI" URL="../NetworkVar/MeasuredObj_set.vi"/>
+	<Item Name="MeasuredObj_get.vi" Type="VI" URL="../NetworkVar/MeasuredObj_get.vi"/>
 </Library>

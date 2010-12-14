@@ -13,4 +13,5 @@
 	<Item Name="CalcAngleCircle.vi" Type="VI" URL="../ImageAnalysis/CalcAngleCircle.vi"/>
 	<Item Name="Image2ObjectsDistances2.vi" Type="VI" URL="../ImageAnalysis/Image2ObjectsDistances2.vi"/>
 	<Item Name="Image2WallDistances2.vi" Type="VI" URL="../ImageAnalysis/Image2WallDistances2.vi"/>
+	<Item Name="ObjectsCtrl.ctl" Type="VI" URL="../ImageAnalysis/ObjectsCtrl.ctl"/>
 </Library>
